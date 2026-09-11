@@ -1,0 +1,33 @@
+{
+  "_note": "Section-specific amlegal URLs verified in the Browser pane 2026-09-11 (page title matched the section). Charter text for 434/440/1048 verified via BetaNYC nyc-charter MCP. Apply at build time by (job, source id).",
+  "police": {
+    "16": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-216127",
+    "17": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-24981",
+    "18": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-124304",
+    "19": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1616#JD_434",
+    "20": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1616#JD_440"
+  },
+  "correction": {
+    "36": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-2801#JD_1048"
+  },
+  "_known_nodes": {
+    "charter_ch18_police": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1616",
+    "charter_ch25_correction": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-6307",
+    "charter_ch31_sanitation": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-6721",
+    "charter_ch35_dcas": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-2433",
+    "charter_ch45a_oath": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-2801",
+    "admin_title12_personnel": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-15945",
+    "admin_title14_police": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-24870",
+    "admin_title16_sanitation": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-25974",
+    "rules_title16_dsny": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-30861",
+    "rules_title48_oath_ch1": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-83290"
+  },
+  "sanitation": {
+    "36": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-25988",
+    "37": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-25988",
+    "38": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-2801#JD_1048",
+    "18": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?$select=exam_no,established_date,anniversary_date,extension_date,count(*)&list_title_code=70112&$group=exam_no,established_date,anniversary_date,extension_date",
+    "19": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?$select=count(*),min(published_date),max(published_date),min(list_no),max(list_no)&exam_no=2060",
+    "46": "https://data.cityofnewyork.us/resource/y3hw-z6bm.json?$select=count(*),min(opened),max(opened)&$where=category%3D'Section+75'+AND+upper(name)+like+'%25SANITATION%25'"
+  }
+}

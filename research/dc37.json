@@ -1,0 +1,1259 @@
+{
+ "role": "District Council 37 staffer (Clerical Associate)",
+ "agency": "Any mayoral agency under the jurisdiction of the DCAS commissioner (the Clerical Associate list used by mayoral agencies; NYC Health + Hospitals has a separate title and list)",
+ "union": "District Council 37, AFSCME (Clerical-Administrative bargaining unit; Local 1549 describes itself as representing Clerical Associates)",
+ "title_code_or_exam": "Clerical Associate, title code 10251, competitive class, open-competitive. Latest exam: New York City Bridge Exam No. 5977 (filing June 4-24, 2025). Latest dated open-competitive list: Exam No. 3120 (established April 30, 2025)",
+ "hiring": {
+  "summary": "A Clerical Associate gets a permanent job by passing a DCAS civil service exam, landing on a ranked eligible list and being picked by an agency from among the top three available names. After a one-year probation the job is permanent. When no list is available, agencies can hire provisionally without a competitive test, but only until a list arrives.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "Exam is announced and the candidate applies online",
+    "body": "The Department of Citywide Administrative Services (DCAS) posts a notice of examination; the candidate files on the Online Application System (OASys) and pays a $47 fee, which is waived for veterans, unemployed people and people receiving public assistance or Supplemental Security Income. clerical associate requires a high school diploma or equivalent and one year of full-time clerical experience.",
+    "time": "Filing window of at least 2 weeks; 20 days for the 2025 exam (June 4 to June 24)",
+    "time_basis": "rule",
+    "who": "Candidate; DCAS",
+    "law": "Civil Service Law § 50(5); Personnel Rule 4.2.2; Notice of Examination No. 5977",
+    "src": [
+     1,
+     21,
+     22,
+     23,
+     24,
+     35
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Candidate takes the test",
+    "body": "In 2025 clerical associate was part of the New York City Bridge Exam: a computer-based multiple-choice test that sets list rank (70% needed to pass), a pass/fail education and experience review and a typing test of 20 words per minute. The 2021 clerical associate exam was scored only on education and experience.",
+    "time": "Testing began Sept. 15, 2025, about 12 weeks after filing closed",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "Notice of Examination No. 5977; Notice of Examination No. 1190 (2021)",
+    "src": [
+     22,
+     25,
+     26,
+     34,
+     85
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Scores are finalized and an eligible list is established",
+    "body": "Passing candidates are ranked by final score. Veterans who claim credit get 5 extra points (10 if disabled), added only when the list is established. The list becomes official by order of the DCAS commissioner.",
+    "time": "Median 163 days from exam to results for all DCAS exams (July to October 2024)",
+    "time_basis": "official",
+    "who": "DCAS",
+    "law": "Civil Service Law § 85(2)(a); Personnel Rule 4.6.1(c)",
+    "src": [
+     19,
+     20,
+     31,
+     36,
+     79
+    ]
+   },
+   {
+    "type": "step",
+    "title": "The list stays alive for up to four years",
+    "body": "State law sets a list's life at one to four years; DCAS says City lists typically last four. The most recent open-competitive clerical associate list with a posted date (Exam No. 3120) was established April 30, 2025 and runs to April 30, 2029.",
+    "time": "1 to 4 years; typically 4",
+    "time_basis": "statutory",
+    "who": "DCAS",
+    "law": "Civil Service Law § 56",
+    "src": [
+     2,
+     27,
+     82
+    ]
+   },
+   {
+    "type": "fork",
+    "question": "When an agency fills a funded vacancy, is an appropriate eligible list available?",
+    "lanes": [
+     {
+      "label": "Yes: hire from the list",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "DCAS certifies the top names to the agency",
+        "body": "The agency must pick one of the three highest-ranked candidates who are willing to accept the job.",
+        "time": "When the agency requests a certification",
+        "time_basis": "statutory",
+        "who": "DCAS; hiring agency",
+        "law": "Civil Service Law § 61(1); Personnel Rule 4.7.1(c)",
+        "src": [
+         3,
+         37
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Agency interviews and makes an offer",
+        "body": "At the appointment interview the agency verifies qualifications and, where required, New York City residency within 90 days of appointment. A candidate who declines or does not answer an offer in the time the agency sets can be withheld from further certification.",
+        "time": "At least 4 days to respond to an offer",
+        "time_basis": "rule",
+        "who": "Hiring agency; candidate",
+        "law": "Personnel Rule 4.8.2; Administrative Code § 12-120 (as described in the exam notice)",
+        "src": [
+         28,
+         29,
+         38
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Character and background review",
+        "body": "Satisfactory character and reputation is a minimum qualification. DCAS can investigate after appointment and revoke the appointment for disqualifying facts or fraud.",
+        "time": "Revocation possible up to 3 years after appointment",
+        "time_basis": "rule",
+        "who": "DCAS; hiring agency",
+        "law": "Personnel Rules 4.3.1(b), 4.3.2(b)",
+        "src": [
+         39,
+         40
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Appointment and probation",
+        "body": "The new clerical associate serves a probationary term. The default for competitive-class appointments is one year. It can be extended by up to six months with the employee's written consent and is extended by days spent on leave or limited duty.",
+        "time": "12 months; extendable up to 6 more",
+        "time_basis": "rule",
+        "who": "Hiring agency; DCAS; employee",
+        "law": "Civil Service Law § 63(1); Personnel Rules 5.2.1(a), 5.2.8",
+        "src": [
+         4,
+         41,
+         42,
+         43
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Permanent status",
+        "body": "After probation the employee holds a permanent competitive-class appointment and can be disciplined only for cause after charges and a hearing under Civil Service Law § 75, or through the District Council 37 contract procedure.",
+        "src": [
+         7,
+         8,
+         51
+        ]
+       }
+      ]
+     },
+     {
+      "label": "No: provisional appointment",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Agency nominates a provisional hire",
+        "body": "With no usable list, the agency can nominate someone. DCAS reviews the nominee's training and experience, without a written test, and the person is appointed provisionally. Provisional employees in the title can file late for the next exam in some cases.",
+        "time": "Legal limit of 9 months",
+        "time_basis": "statutory",
+        "who": "Hiring agency; DCAS",
+        "law": "Civil Service Law § 65(1)-(2); Personnel Rules 5.5.1, 5.5.2",
+        "src": [
+         5,
+         48,
+         49,
+         32
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Provisional job ends when a list arrives",
+        "body": "A provisional appointment must end within two months after an appropriate list is established. To stay, the person has to be reached on the list and appointed permanently.",
+        "src": [
+         6,
+         84
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "end_to_end": {
+   "text": "No official source gives a start-to-finish figure. Adding the official clocks for the 2025 exam: about 12 weeks from the close of filing to the test, a median of 163 days for DCAS to produce results (all DCAS exams, July to October 2024), an open-ended wait to be reached on a list that can last four years, then a 12-month probation. Even a candidate hired the day results come out would reach permanent status about 20 months after filing closed.",
+   "src": [
+    22,
+    79,
+    27,
+    2,
+    41
+   ]
+  }
+ },
+ "firing": {
+  "summary": "How a Clerical Associate can be fired depends on status. A probationer can be let go without a hearing after two months of service. A provisional employee has contract protection only after two years. A permanent employee can be removed only for incompetency or misconduct after written charges, and after a Step A conference chooses between a Section 75 hearing at OATH, with appeal to the Civil Service Commission or court, and the union contract route ending in binding arbitration.",
+  "nodes": [
+   {
+    "type": "fork",
+    "question": "What is the employee's civil service status?",
+    "lanes": [
+     {
+      "label": "Probationary (first year after appointment)",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Agency can end employment without a hearing",
+        "body": "After a minimum of two months of service, the agency head can terminate a probationer whose conduct and performance are not satisfactory, by notice to the employee and to DCAS. At the end of probation, an unsatisfactory probationer can be let go the same way. The contract's disciplinary procedure covers permanent employees, not probationers.",
+        "time": "Any time from month 2 to the end of probation",
+        "time_basis": "rule",
+        "who": "Agency head; DCAS",
+        "law": "Personnel Rules 5.2.7(a), 5.2.7(c); Clerical Agreement Article VI § 1(e)",
+        "src": [
+         44,
+         45,
+         46,
+         51
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Terminated probationer may go back on the list",
+        "body": "DCAS has discretion to restore the person's name to the eligible list if it still exists.",
+        "src": [
+         47
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Permanent (probation completed)",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Investigatory interview",
+        "body": "An employee questioned as a potential subject of discipline has a right to union representation and must be told of it in writing beforehand. Under the DC 37 contract, when the interviewer is outside the normal chain of command, the employee may bring a union representative or lawyer.",
+        "time": "Written notice at least 2 work days ahead, when feasible",
+        "time_basis": "contract",
+        "who": "Agency investigators; employee; union",
+        "law": "Civil Service Law § 75(2); 2017-2021 DC 37 Memorandum of Agreement, Article IX § 19",
+        "src": [
+         10,
+         70,
+         71
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Agency serves written charges",
+        "body": "Charges must allege incompetency or misconduct and be filed within 18 months of the conduct, unless it would be a crime. The employee gets at least eight days to answer in writing and can be suspended without pay for up to 30 days while charges are pending.",
+        "time": "Within 18 months of the conduct; 8 days to answer; suspension capped at 30 days",
+        "time_basis": "statutory",
+        "who": "Agency head; employee",
+        "law": "Civil Service Law § 75(2), (3), (4)",
+        "src": [
+         11,
+         14,
+         16
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Step A conference",
+        "body": "An agency designee meets with the employee, who may bring a union representative, and issues a written determination. The employee can accept it, signing away Section 75 and 76 rights, or reject it.",
+        "time": "Decision by the end of the 5th day after the conference",
+        "time_basis": "contract",
+        "who": "Agency designee; employee; union",
+        "law": "Clerical Agreement Article VI § 5, Step A",
+        "src": [
+         53,
+         54
+        ]
+       },
+       {
+        "type": "fork",
+        "question": "If the employee rejects Step A, which track?",
+        "lanes": [
+         {
+          "label": "Statutory track: Section 75 hearing",
+          "nodes": [
+           {
+            "type": "step",
+            "title": "Hearing at the Office of Administrative Trials and Hearings",
+            "body": "By default the agency proceeds under Section 75. The Office of Administrative Trials and Hearings (OATH) hears City cases; an administrative law judge first holds a settlement conference, and unsettled cases go to trial before a different judge. The agency must prove its case by a preponderance of the evidence, and the employee may have counsel or a union representative.",
+            "time": "OATH averaged 26.5 days from close of record to decision (July to October 2024)",
+            "time_basis": "official",
+            "who": "Agency lawyers; employee; union or counsel; OATH judge",
+            "law": "Civil Service Law § 75(2); NYC Charter § 1048; Clerical Agreement Article VI § 5, Step B(i)",
+            "src": [
+             12,
+             13,
+             55,
+             74,
+             75,
+             77,
+             81
+            ]
+           },
+           {
+            "type": "step",
+            "title": "Agency head decides",
+            "body": "The judge's report and recommendation go to the agency head, who makes the final decision. Penalties range from a reprimand or a fine of up to $100 to suspension of up to two months, demotion or dismissal.",
+            "time": "No statutory deadline found",
+            "time_basis": "statutory",
+            "who": "Agency head",
+            "law": "Civil Service Law § 75(2), (3)",
+            "src": [
+             12,
+             15,
+             76
+            ]
+           },
+           {
+            "type": "step",
+            "title": "Appeal",
+            "body": "The employee can appeal to the New York City Civil Service Commission or go to state court under Article 78 of the Civil Practice Law and Rules.",
+            "time": "Commission appeal within 20 days of notice (23 if notice is mailed by registered mail)",
+            "time_basis": "statutory",
+            "who": "Employee; Civil Service Commission or state Supreme Court",
+            "law": "Civil Service Law § 76(1)",
+            "src": [
+             17,
+             18
+            ]
+           }
+          ]
+         },
+         {
+          "label": "Contract track: grievance and arbitration",
+          "nodes": [
+           {
+            "type": "step",
+            "title": "Step B: appeal to the agency head",
+            "body": "The union, with the employee's consent, elects the contract route, and both file a written waiver of Section 75 and 76 rights. Unpaid suspension still cannot exceed 30 days. The agency head or a designee meets with them and can impose discipline up to termination.",
+            "time": "File within 5 work days; decision by the 10th work day",
+            "time_basis": "contract",
+            "who": "Union; employee; agency head",
+            "law": "Clerical Agreement Article VI § 5, Steps B(i)-(ii)",
+            "src": [
+             56,
+             57,
+             58,
+             59
+            ]
+           },
+           {
+            "type": "step",
+            "title": "Step C: appeal to the Commissioner of Labor Relations",
+            "body": "Either the employee or the union can appeal to the City's labor relations commissioner. If the penalty is termination or more than 30 days of unpaid suspension, the union can skip this step. If the City misses a deadline, the next step can be invoked.",
+            "time": "File within 10 days; reply within 15 work days",
+            "time_basis": "contract",
+            "who": "Union; employee; Office of Labor Relations",
+            "law": "Clerical Agreement Article VI §§ 5 (Step C), 10",
+            "src": [
+             60,
+             61,
+             67
+            ]
+           },
+           {
+            "type": "step",
+            "title": "Step D: arbitration",
+            "body": "Only the union, with the employee's consent, can take the case to a neutral arbitrator under the Office of Collective Bargaining. The award is final and binding, and the two sides split the cost. Small penalties (a fine of one week's pay or less, or a written reprimand) can go to expedited arbitration.",
+            "time": "Union files within 15 work days of the prior determination",
+            "time_basis": "contract",
+            "who": "Union; City; arbitrator",
+            "law": "Clerical Agreement Article VI §§ 2-3 (Step IV), 5 (Step D), 16; 61 RCNY",
+            "src": [
+             62,
+             63,
+             64,
+             65,
+             66
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "aside": {
+   "label": "Provisional employees",
+   "text": "Section 75 covers permanent competitive-class employees, not provisionals. Under the contract, a provisional employee of a mayoral agency can grieve discipline only after two years of unbroken service in the same or similar title, under a separate 2011 and 2018 procedure.",
+   "src": [
+    8,
+    52,
+    68
+   ]
+  }
+ },
+ "stats": [
+  {
+   "text": "DCAS median time from exam administration to exam results: 163 days in the first four months of fiscal 2025 (July to October 2024), across all DCAS-administered exams. The agency target is 197 days.",
+   "src": [
+    79
+   ]
+  },
+  {
+   "text": "OATH's Trials Division, which hears City employee discipline cases among many other case types, received 897 cases of all types in the first four months of fiscal 2025 and averaged 26.5 days from close of record to decision.",
+   "src": [
+    81
+   ]
+  },
+  {
+   "text": "OATH says agency heads adopted 99% of its Trials Division findings in 2016.",
+   "src": [
+    78
+   ]
+  },
+  {
+   "text": "The open-competitive clerical associate list from Exam No. 3120 was established April 30, 2025 and expires April 30, 2029; the active-list dataset showed 2,653 names on it as of Sept. 11, 2026. A later clerical associate list (Exam No. 4129) was published Nov. 26, 2025, with no establishment date in the dataset.",
+   "src": [
+    82,
+    83
+   ]
+  },
+  {
+   "text": "The Preliminary Mayor's Management Report for fiscal 2025 says the last round of qualified incumbent exams, part of DCAS's provisional reduction plan, ran in the first four months of fiscal 2024, and that the City is now in compliance with Civil Service Law § 65.",
+   "src": [
+    80,
+    87
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Civil Service Law § 50(5), application fees",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_50",
+   "quote": "Every applicant for examination for a position in the competitive or non-competitive class, or in the labor class when examination for appointment is required, shall pay a fee",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 2,
+   "title": "Civil Service Law § 56, duration of eligible lists",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_56",
+   "quote": "not less than one nor more than four years",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 3,
+   "title": "Civil Service Law § 61(1), appointment from eligible lists",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_61",
+   "quote": "shall be made by the selection of one of the three persons certified by the appropriate civil service commission as standing highest on such eligible list who are willing to accept such appointment or promotion",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 4,
+   "title": "Civil Service Law § 63(1), probationary term",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_63",
+   "quote": "Every original appointment to a position in the competitive class and every interdepartmental promotion from a position in one department or agency to a position in another department or agency shall be for a probationary term",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 5,
+   "title": "Civil Service Law § 65(1), provisional appointments authorized",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_65",
+   "quote": "Whenever there is no appropriate eligible list available for filling a vacancy in the competitive class, the appointing officer may nominate a person to the state civil service department or municipal commission for non-competitive examination",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 6,
+   "title": "Civil Service Law § 65(3), termination of provisional appointments",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_65",
+   "quote": "A provisional appointment to any position shall be terminated within two months following the establishment of an appropriate eligible list for filling vacancies in such positions",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 7,
+   "title": "Civil Service Law § 75(1), removal only for cause after hearing",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "shall not be removed or otherwise subjected to any disciplinary penalty provided in this section except for incompetency or misconduct shown after a hearing upon stated charges pursuant to this section",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 8,
+   "title": "Civil Service Law § 75(1)(a), permanent competitive-class employees covered",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "(a) A person holding a position by permanent appointment in the competitive class of the classified civil service",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 9,
+   "title": "Civil Service Law § 75(1)(c), non-competitive employees after five years",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "who since his or her last entry into service has completed at least five years of continuous service in the non-competitive or labor class",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 10,
+   "title": "Civil Service Law § 75(2), representation at questioning",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "An employee who at the time of questioning appears to be a potential subject of disciplinary action shall have a right to representation by his or her certified or recognized employee organization",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 11,
+   "title": "Civil Service Law § 75(2), written charges and time to answer",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "shall be furnished a copy of the charges preferred against him and shall be allowed at least eight days for answering the same in writing",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 12,
+   "title": "Civil Service Law § 75(2), hearing officer's record and recommendations",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "shall make a record of such hearing which shall, with his recommendations, be referred to such officer or body for review and decision",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 13,
+   "title": "Civil Service Law § 75(2), burden of proof",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "The burden of proving incompetency or misconduct shall be upon the person alleging the same.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 14,
+   "title": "Civil Service Law § 75(3), suspension pending charges",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "may be suspended without pay for a period not exceeding thirty days",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 15,
+   "title": "Civil Service Law § 75(3), penalties",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "suspension without pay for a period not exceeding two months, demotion in grade and title, or dismissal from the service",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 16,
+   "title": "Civil Service Law § 75(4), 18-month limitation",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "no removal or disciplinary proceeding shall be commenced more than eighteen months after the occurrence of the alleged incompetency or misconduct complained of",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 17,
+   "title": "Civil Service Law § 76(1), appeal routes",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_76",
+   "quote": "may appeal from such determination either by an application to the state or municipal commission having jurisdiction, or by an application to the court in accordance with the provisions of article seventy-eight of the civil practice law and rules",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 18,
+   "title": "Civil Service Law § 76(1), 20-day deadline for commission appeal",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_76",
+   "quote": "he shall file such appeal in writing within twenty days after service of written notice of the determination to be reviewed",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 19,
+   "title": "Civil Service Law § 85(2)(a)(1), disabled veterans' credit",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_85",
+   "quote": "Disabled veterans shall be entitled to receive ten points additional in a competitive examination for original appointment",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 20,
+   "title": "Civil Service Law § 85(2)(a)(2), non-disabled veterans' credit",
+   "publisher": "New York State Legislature (text via NewYork.Public.Law mirror of nysenate.gov)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_85",
+   "quote": "Non-disabled veterans shall be entitled to receive five points additional credit in a competitive examination for original appointment",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 21,
+   "title": "Notice of Examination, New York City Bridge Exam No. 5977 (amended Aug. 20, 2025): fee and waiver",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "APPLICATION FEE: $47.00 ... CANDIDATES WHO DEMONSTRATE THAT THEY ARE A VETERAN, UNEMPLOYED, RECEIVING PUBLIC ASSISTANCE, OR SUPPLEMENTARY SECURITY INCOME, ARE ENTITLED TO A WAIVER OF THE APPLICATION FEE.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 22,
+   "title": "Notice of Examination No. 5977: application period and test date",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "From: June 4, 2025 To: June 24, 2025 ... Multiple-choice and Qualifying Education and Experience testing is expected to begin on Monday, September 15, 2025.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 23,
+   "title": "Notice of Examination No. 5977: how to apply",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "submit an application on the Online Application System (OASys) at www.nyc.gov/examsforjobs.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 24,
+   "title": "Notice of Examination No. 5977: Clerical Associate education and experience requirements",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "A four-year high school diploma or its educational equivalent approved by a State's Department of Education or a recognized accrediting organization and one year of full-time satisfactory clerical experience.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 25,
+   "title": "Notice of Examination No. 5977: multiple-choice test",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "Your score on this test will be used to determine your place on each eligible list. You must achieve a score of at least 70% to pass the test.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 26,
+   "title": "Notice of Examination No. 5977: Clerical Associate typing requirement",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "a minimum speed of 100 key strokes (20 words) per minute after errors are deducted. You must meet this requirement in order to be appointed.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 27,
+   "title": "Notice of Examination No. 5977: list duration",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "Once a list for a City title has been established, it will typically remain active for four years.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 28,
+   "title": "Notice of Examination No. 5977: appointment interview",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "Your experience, skills, license, and/or certification will be verified at the time of the appointment interview by the appointing agency.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 29,
+   "title": "Notice of Examination No. 5977: residency",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "you might need to be a resident of the City of New York within 90 days of the date you are appointed to this position.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 30,
+   "title": "Notice of Examination No. 5977: Clerical Associate salary",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "The current minimum salary is $34,974 per annum. This rate is subject to change.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 31,
+   "title": "Notice of Examination No. 5977: special circumstances (veterans' credit)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "This guide gives important information about requesting an alternate test date because of religious observance or a special test accommodation for disability, claiming Veterans' or Legacy credit",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 32,
+   "title": "Notice of Examination No. 5977: late filing for provisionals",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "If you are currently provisionally employed by the City of New York, consult your agency's Personnel Office/Human Resources to determine the procedure for filing a late application",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 33,
+   "title": "Notice of Examination No. 5977: probation stated for Child Protective Specialist (not Clerical Associate)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20255977000.pdf",
+   "quote": "The probationary period for this title is 18 months. Among other requirements, you will be required to pass the Training Academy test",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 34,
+   "title": "Notice of Examination, Clerical Associate Exam No. 1190 (2021)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20211190000.pdf",
+   "quote": "Your score will be determined by an Education and Experience Exam. You will receive a score of 70 points for meeting the education and experience requirements listed above.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 35,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 4.2.2 (filing period)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "to be not less than two weeks, during which applications shall be received.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 36,
+   "title": "Personnel Rules, Rule 4.6.1(c) (establishment of lists)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "The list thus reported shall be officially established only by order of the commissioner of citywide administrative services.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 37,
+   "title": "Personnel Rules, Rule 4.7.1(c) (certification; one of three)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "shall be made by the selection of one of the three persons certified by the commissioner of citywide administrative services or the head of the certifying agency, as the case may be, as standing highest on such established list",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 38,
+   "title": "Personnel Rules, Rule 4.8.2(b) (failure to respond to offer)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "failure of the eligible to respond to an offer of appointment within the period fixed by the agency head, provided that such period is not less than four days after the date of such offer",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 39,
+   "title": "Personnel Rules, Rule 4.3.2(b) (character and reputation)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "Satisfactory character and reputation shall be deemed a part of the established minimum requirements and qualifications for admission to an examination or for appointment to a position.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 40,
+   "title": "Personnel Rules, Rule 4.3.1(b) (investigation after appointment)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-4.page",
+   "quote": "Investigation of the qualifications and background of an eligible may be made after appointment ... no such certification shall be revoked or appointment terminated more than three years after it is made",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 41,
+   "title": "Personnel Rules, Rule 5.2.1(a) (probationary term)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "Every appointment and promotion to a position in the competitive or labor class shall be for a probationary period of one year unless otherwise set forth in the terms and conditions of the certification",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 42,
+   "title": "Personnel Rules, Rule 5.2.8(a) (extension of probation by consent)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "with the written consent of the probationer, the commissioner of citywide administrative services may authorize the extension of the probationary term for one or more additional periods not exceeding in the aggregate six months",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 43,
+   "title": "Personnel Rules, Rule 5.2.8(b) (probation extended by days away)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the probationary term is extended by the number of days when the probationer does not perform the duties of the position",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 44,
+   "title": "Personnel Rules, Rule 5.2.7(a) (termination at end of probation)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "At the end of the probationary term, the agency head may terminate the employment of any unsatisfactory probationer by notice to such probationer and to the commissioner of citywide administrative services.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 45,
+   "title": "Personnel Rules, Rule 5.2.7(c) (termination during probation)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the agency head may terminate the employment of any probationer whose conduct and performance is not satisfactory after the completion of a minimum period of probationary service",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 46,
+   "title": "Personnel Rules, Rule 5.2.7(c) (minimum period)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "(1) two months for every appointment to a position in the competitive or labor class and (2) four months for every promotion to a position in the competitive or labor class.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 47,
+   "title": "Personnel Rules, Rule 5.2.9 (restoration to list)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the commissioner of citywide administrative services has the discretion to and may restore the name of such probationer to the eligible list, if it be in existence.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 48,
+   "title": "Personnel Rules, Rule 5.5.1 (provisional appointment requirements)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "such non-competitive examination may consist of a review and evaluation of the training, experience and other qualifications of the nominee without written, oral or other performance tests.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 49,
+   "title": "Personnel Rules, Rule 5.5.2 (provisional duration)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "A provisional appointment shall not continue for a period in excess of nine months.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 50,
+   "title": "2010-2017 Clerical Agreement (City of New York and District Council 37), Article I",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "The Employer recognizes the Union as the sole and exclusive collective bargaining representative for the bargaining unit set forth below ... [title list includes] Clerical Associate",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 51,
+   "title": "Clerical Agreement, Article VI § 1(e)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "A claimed wrongful disciplinary action taken against a permanent employee covered by Section 75(1) of the Civil Service Law",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 52,
+   "title": "Clerical Agreement, Article VI § 1(g)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "A claimed wrongful disciplinary action taken against an eligible provisional employee of a Mayoral agency who has served without a break in service for two years in the same or similar title",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 53,
+   "title": "Clerical Agreement, Article VI § 5, Step A",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "Following the service of written charges, a conference with such employee shall be held ... shall issue a determination in writing by the end of the fifth day following the date of the conference.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 54,
+   "title": "Clerical Agreement, Article VI § 5, Step A waiver",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "As a condition of accepting such determination, the employee shall sign a waiver of the employee's right to the procedures available to him or her under Sections 75 and 76 of the Civil Service Law",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 55,
+   "title": "Clerical Agreement, Article VI § 5, Step B(i) default",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "If the employee is not satisfied with the determination at STEP A above then the Employer shall proceed in accordance with the disciplinary procedures set forth in Section 75 of the Civil Service Law",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 56,
+   "title": "Clerical Agreement, Article VI § 5, Step B(i) contractual alternative",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "As an alternative, the Union with the consent of the employee may choose to proceed in accordance with the Grievance Procedure set forth in this Agreement, including the right to proceed to binding arbitration",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 57,
+   "title": "Clerical Agreement, Article VI § 5, Step B(i) suspension cap",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "Notwithstanding such waiver, the period of an employee's suspension without pay pending hearing and determination of charges shall not exceed thirty (30) days.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 58,
+   "title": "Clerical Agreement, Article VI § 5, Step B(ii) filing deadline",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "The appeal must be made in writing within five (5) work days of the receipt of the determination.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 59,
+   "title": "Clerical Agreement, Article VI § 5, Step B(ii) decision",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "shall issue a determination to the employee and the Union by the end of the tenth work day following the day on which the appeal was filed.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 60,
+   "title": "Clerical Agreement, Article VI § 5, skipping Step C",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "In the event of such termination or suspension without pay totaling more than thirty (30) days, the Union with the consent of the grievant may elect to skip STEP C of this Section and proceed directly to STEP D.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 61,
+   "title": "Clerical Agreement, Article VI § 5, Step C",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "may appeal to the Commissioner of Labor Relations in writing within ten (10) days of the determination ... shall issue a written reply to the grievant and the Union within fifteen (15) work days.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 62,
+   "title": "Clerical Agreement, Article VI § 5, Step D",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "the Union with the consent of the grievant may proceed to arbitration pursuant to the procedures set forth in STEP IV of the Grievance Procedure",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 63,
+   "title": "Clerical Agreement, Article VI § 2, Step IV",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "may be brought solely by the Union to the Office of Collective Bargaining for impartial arbitration within fifteen (15) work days of receipt of the STEP III determination.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 64,
+   "title": "Clerical Agreement, Article VI § 3, arbitration award",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "The arbitrator's award shall be final and binding and enforceable in any appropriate tribunal in accordance with Article 75 of the Civil Practice Law and Rules.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 65,
+   "title": "Clerical Agreement, Article VI § 2, arbitration costs",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "The costs and fees of such arbitration shall be borne equally by the Union and the Employer.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 66,
+   "title": "Clerical Agreement, Article VI § 16, expedited arbitration",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "disciplinary cases wherein the proposed penalty is a monetary fine of one week or less or written reprimand",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 67,
+   "title": "Clerical Agreement, Article VI § 10, missed employer deadlines",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "If the Employer exceeds any time limit prescribed at any step in the Grievance Procedure, the grievant and/or the Union may invoke the next step of the procedure",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 68,
+   "title": "Clerical Agreement, Article VI § 6, provisional disciplinary procedure",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "all terms of the \"Disciplinary Procedure for Provisional Employees\", as set forth in the agreements between DC 37 and the City of New York dated August 30, 2011 and April 27, 2018, appended to this agreement, shall govern.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 69,
+   "title": "2017-2021 Memorandum of Agreement, District Council 37 and the City of New York, § 11",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/dc-37mou-2018.pdf",
+   "quote": "The terms of the predecessor separate unit agreements shall be continued except as modified pursuant to this 2017-2021 DC 37 MOA.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 70,
+   "title": "2017-2021 DC 37 MOA, Citywide Modifications, Article IX § 19(a)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/dc-37mou-2018.pdf",
+   "quote": "shall be notified, whenever feasible, in writing at least two (2) work days in advance of the day on which the interview or hearing is to be held",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 71,
+   "title": "2017-2021 DC 37 MOA, Citywide Modifications, Article IX § 19(b)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/dc-37mou-2018.pdf",
+   "quote": "the employee shall be entitled to be accompanied by a Union representative, or a lawyer: and the employee shall be informed of this right",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 72,
+   "title": "2021-2026 Memorandum of Agreement, District Council 37 and the City of New York, § 1 (term)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc-37-2021-2026-moa.pdf",
+   "quote": "Term: 5 years, 5 months, and 12 days (65 months and 12 days) 5/26/21 - 11/6/26",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 73,
+   "title": "2021-2026 DC 37 MOA, § 16 (continuation of terms)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc-37-2021-2026-moa.pdf",
+   "quote": "The terms of the predecessor separate unit agreements shall be continued except as modified pursuant to this 2021-2026 DC 37 MOA.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 74,
+   "title": "New York City Charter § 1048(1)",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH) (Charter chapter 45-a PDF)",
+   "url": "https://www.nyc.gov/assets/oath/downloads/pdf/Charter-Chapter-45-a.pdf",
+   "quote": "There shall be an office of administrative trials and hearings which shall conduct adjudicatory hearings for all agencies of the city unless otherwise provided for by executive order, rule, law or pursuant to collective bargaining agreements.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 75,
+   "title": "OATH Trials Division overview: conferences",
+   "publisher": "NYC OATH",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "Most of the cases are initially conferenced by an Administrative Law Judge and cases that are not settled continue to trial before a different Judge.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 76,
+   "title": "OATH Trials Division overview: recommended decisions",
+   "publisher": "NYC OATH",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "OATH's Trials Division prepares recommended fact-findings, legal conclusions, and relief for review by the deciding authority, usually the head of the agency that referred the case.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 77,
+   "title": "OATH Trials Division overview: standard of proof",
+   "publisher": "NYC OATH",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "Petitioners must prove their case by a preponderance of the evidence - the same standard usually applied in civil lawsuits.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 78,
+   "title": "OATH Trials Division overview: adoption rate",
+   "publisher": "NYC OATH",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "In 2016, agency heads adopted 99 percent of OATH's findings.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 79,
+   "title": "PMMR Fiscal 2025, DCAS chapter: exam results time",
+   "publisher": "NYC Mayor's Office of Operations, Preliminary Mayor's Management Report, Fiscal 2025",
+   "url": "https://www.nyc.gov/assets/operations/downloads/pdf/pmmr2025/dcas.pdf",
+   "quote": "the median time from exam administration to exam results completion for DCAS- administered exams increased 42 percent to 163 days",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 80,
+   "title": "PMMR Fiscal 2025, DCAS chapter: provisional reduction",
+   "publisher": "NYC Mayor's Office of Operations, Preliminary Mayor's Management Report, Fiscal 2025",
+   "url": "https://www.nyc.gov/assets/operations/downloads/pdf/pmmr2025/dcas.pdf",
+   "quote": "This was the last round of Qualified Incumbent Exams (QIEs). DCAS and the City are now in compliance with New York State Civil Service Law § 65(a)",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 81,
+   "title": "PMMR Fiscal 2025, OATH chapter: Trials Division caseload and decision time",
+   "publisher": "NYC Mayor's Office of Operations, Preliminary Mayor's Management Report, Fiscal 2025",
+   "url": "https://www.nyc.gov/assets/operations/downloads/pdf/pmmr2025/oath.pdf",
+   "quote": "cases filed at OATH's Trials Division decreased by 31 percent from the same period last fiscal year (from 1298 to 897) ... (from 37.8 to 26.5 days)",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 82,
+   "title": "Civil Service List (Active): Clerical Associate Exam No. 3120",
+   "publisher": "NYC Open Data, Civil Service List (Active), dataset vx8i-nprf (DCAS; rows updated 2026-09-11)",
+   "url": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?exam_no=3120",
+   "quote": "\"exam_no\":\"3120\" ... \"list_title_desc\":\"CLERICAL ASSOCIATE\" ... \"established_date\":\"2025-04-30T00:00:00.000\",\"anniversary_date\":\"2029-04-30T00:00:00.000\"",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 83,
+   "title": "Civil Service List (Active): Clerical Associate Exam No. 4129",
+   "publisher": "NYC Open Data, Civil Service List (Active), dataset vx8i-nprf (DCAS; rows updated 2026-09-11)",
+   "url": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?exam_no=4129",
+   "quote": "\"exam_no\":\"4129\" ... \"list_title_desc\":\"CLERICAL ASSOCIATE\" ... \"published_date\":\"2025-11-26T00:00:00.000\"",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 84,
+   "title": "Civil Service System",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/employment/civil-service-system.page",
+   "quote": "Appointments to competitive class titles can be permanent (if appointed from a civil service list) or provisional.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 85,
+   "title": "Annual Examination Schedule through June 30, 2025",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/exam-schedules/dcas-annual-examination-schedule-fy2025-application-period-order.pdf",
+   "quote": "THE NEW YORK CITY BRIDGE EXAM - CHILD PROTECTIVE SPECIALIST - CLERICAL ASSOCIATE - CLERICAL ASSOCIATE (NYC H+H) ... 5977 Open Competitive",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 86,
+   "title": "Annual Examination Schedule through June 30, 2026",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/exam-schedules/dcas-annual-examination-schedule-fy2026-application-period-order.pdf",
+   "quote": "The New York City Bridge Exam - Maintenance Worker - Maintenance Worker (CUNY) - Maintenance Worker (NYC H+H) - Radio Repair Mechanic - Secretary - Secretary (NYC H+H) - Secretary (Prom) 6977",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 87,
+   "title": "DCAS five-year provisional reduction plan",
+   "publisher": "New York State Department of Civil Service",
+   "url": "https://www.cs.ny.gov/commission/DCAS/index.cfm",
+   "quote": "The State Civil Service Commission is to determine whether the plan provides a timely and practicable implementation schedule in order to reduce the number of New York City provisional employees within the five years of the plan.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 88,
+   "title": "Local 1549 home page (union self-description; not a government source)",
+   "publisher": "AFSCME Local 1549, NYC Clerical-Administrative Employees",
+   "url": "https://afscmeatwork.org/local-1549-nyc-clerical-administrative-employees",
+   "quote": "We are 311 call center operators, Clerical Associates, Eligibility Specialists, Police Administrative Aides and more.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 89,
+   "title": "Civil Service Law § 75 (official nysenate.gov text)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "",
+   "accessed": "2026-09-11",
+   "fetched_ok": false,
+   "note": "Not retrieved: nysenate.gov returned a Cloudflare challenge page to every request; statute text was taken from the NewYork.Public.Law mirror, which cites nysenate.gov as its source."
+  },
+  {
+   "id": 90,
+   "title": "Clerical Agreement, cover memo (contract term)",
+   "publisher": "NYC Office of Labor Relations (OLR)",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/clerical-executed-contract-2010-2017.pdf",
+   "quote": "SUBJECT: EXECUTED CONTRACT: CLERICAL TERM: MARCH 3, 2010 TO SEPTEMBER 25, 2017",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  }
+ ],
+ "caveats": [
+  "Title choice: Clerical Associate (title code 10251) was chosen because it is a competitive-class, open-competitive title listed in Article I of the District Council 37 Clerical Agreement and was tested as recently as the 2025 Bridge Exam. The 'largest DC 37 local' framing for Local 1549 is not confirmed by an official source.",
+  "Contract currency: the most recent full Clerical unit agreement posted by the Office of Labor Relations runs March 3, 2010 to Sept. 25, 2017. Its terms are carried forward by § 11 of the 2017-2021 DC 37 memorandum and § 16 of the 2021-2026 DC 37 memorandum, which only changes economic terms. That memorandum's term ends Nov. 6, 2026, so the procedure could change in the next round. No successor unit agreement was found on the OLR site.",
+  "Contract quotes come from the PDF's scanned text layer; obvious OCR errors were corrected in the quotes (for example 'hy' to 'by', 'live' to 'five', '75( I)' to '75(1)').",
+  "The Clerical Agreement's disciplinary procedure (Article VI § 5) has Steps A, B, C and D. It has no separate 'OATH conference' step; in this summary, the OATH settlement conference falls inside the statutory Section 75 track, per OATH's own description of its practice.",
+  "Probation length: the 2025 notice states an 18-month probation only for Child Protective Specialist (source 33) and gives none for Clerical Associate, so the one-year default in Personnel Rule 5.2.1 is shown. That is an inference from the rule, not a title-specific statement.",
+  "The minimum service before a probationer can be terminated mid-probation is two months for an original appointment (Personnel Rule 5.2.7(c)), not two weeks.",
+  "The 163-day median covers all DCAS-administered exams and measures time to 'exam results completion', which may not equal the date a list is formally established. The 20-month figure in end_to_end adds official clocks together; it is not a measured figure.",
+  "Exam format changes over time: the 2021 Clerical Associate exam (No. 1190) was scored on education and experience alone with a $40 fee, and the 2025 Bridge Exam added a multiple-choice test and a $47 fee. The fiscal 2026 Bridge Exam (No. 6977) schedule does not list Clerical Associate.",
+  "OATH statistics cover all Trials Division case types, not only employee discipline, and none are specific to DC 37 or Clerical Associates.",
+  "The New York City residency requirement is described from the exam notice's summary of Administrative Code § 12-120; the Code itself was not fetched.",
+  "Civil Service Law text comes from the NewYork.Public.Law mirror (which cites nysenate.gov, verified Sept. 5, 2026) because nysenate.gov served a bot-check page to every request."
+ ],
+ "unverified": [
+  "Application and test dates for Clerical Associate Exam No. 3120 and Exam No. 4129: the notices were not found at nyc.gov (404) or in the Wayback Machine, so exam-to-list time for Clerical Associate specifically could not be calculated.",
+  "Whether a Clerical Associate list from Exam No. 5977 has been established: the Open Data API returned 'service unavailable' or no rows for that exam number.",
+  "Current provisional headcount: counts of 23,052 (February 2016) and about 16,821 (December 2018) appeared only in search snippets of DCAS progress reports and were not confirmed from a fetched document.",
+  "Text of the 'Disciplinary Procedure for Provisional Employees' (DC 37 agreements of Aug. 30, 2011 and April 27, 2018): Article VI § 6 of the contract refers to it, but the text was not in the posted PDF and was not found separately.",
+  "NYC Civil Service Commission disciplinary-appeal page (nyc.gov/site/csc/appeals/disciplinary-appeals.page) returned 404; the appeal procedure is sourced to Civil Service Law § 76 only.",
+  "OATH rules of practice (48 RCNY) and Office of Collective Bargaining arbitration rules (61 RCNY) were not fetched, so no rule-level clocks for OATH conferences or arbitration scheduling are given.",
+  "Local 1549 as the 'largest' DC 37 local: not confirmed from an official or union source that was fetched.",
+  "Legacy credit (named in the exam notice) was not researched."
+ ]
+}

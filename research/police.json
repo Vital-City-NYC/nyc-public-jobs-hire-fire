@@ -1,0 +1,597 @@
+{
+ "role": "Police officer",
+ "agency": "New York City Police Department (NYPD); exams run by NYC Department of Citywide Administrative Services (DCAS)",
+ "union": "Police Benevolent Association of the City of New York (PBA)",
+ "title_code_or_exam": "Police Officer, DCAS Exam Nos. 7311-7322 (application periods July 1, 2026 to June 14, 2027)",
+ "hiring": {
+  "summary": "Candidates take a free, computer-based civil service exam, offered roughly monthly, and are ranked on an eligible list that usually lasts four years. When their number is reached, the NYPD puts them through medical, psychological, physical and character screening before appointing them to about six months of Police Academy training and a two-year probation.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "Apply for the Police Officer exam",
+    "body": "The Department of Citywide Administrative Services (DCAS) opens a new Police Officer exam about once a month, applied for online through its Online Application System. The current notice (exams 7311-7322) charges no application fee; a $75 fingerprint fee is due at the investigation stage.",
+    "time": "About 2-week application window, monthly from July 2026 to June 2027",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "Civil Service Law § 50",
+    "src": [
+     1,
+     5
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Meet the entry requirements",
+    "body": "By appointment a candidate needs a high school diploma plus 24 college credits (2.0 average) or two years of honorable full-time military service, U.S. citizenship and a valid New York State driver license. The candidate must be at least 17 to test, at least 20 years and 6 months to be appointed, and must not have turned 35 by the first day of the application period; military time can reduce the counted age by up to seven years. State law sets a floor of 20 and a ceiling of 43 and lets cities set stricter limits.",
+    "time": "Residency and license can be met within 30 days of appointment",
+    "time_basis": "official",
+    "who": "Candidate",
+    "law": "Civil Service Law § 58; Public Officers Law residency rule cited in the exam notice",
+    "src": [
+     1,
+     2,
+     13
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Take the computer-based test",
+    "body": "The multiple-choice test is taken at a DCAS computer-based testing center. A score of at least 70% is needed to pass.",
+    "time": "Testing runs about 2 to 3 weeks after the application window closes",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "Exam notice",
+    "src": [
+     1
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get ranked on the eligible list",
+    "body": "Passing candidates are placed on an eligible list in final score order. Veterans' preference and legacy credits (for a parent or sibling who died in the line of duty) can be added, as can 10 points for New York City residency; all must be claimed before the list is established.",
+    "time": "DCAS says a list is usually active for four years; state law allows one to four years",
+    "time_basis": "statutory",
+    "who": "DCAS",
+    "law": "Civil Service Law § 56",
+    "src": [
+     1,
+     3,
+     13
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Be certified and selected",
+    "body": "DCAS certifies names from the list in rank order to the Police Department, which must choose from among the three highest-standing candidates willing to accept.",
+    "time": "",
+    "time_basis": "statutory",
+    "who": "DCAS; NYPD",
+    "law": "Civil Service Law § 61",
+    "src": [
+     4
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Complete candidate assessment",
+    "body": "At the NYPD Candidate Assessment Center the candidate goes through character pre-screening and fingerprinting, a medical exam, written and oral psychological exams, a background investigation, a drug and alcohol screening and the Job Standards Test, a six-station physical test that must be finished in 4 minutes 28 seconds.",
+    "time": "NYPD says hiring takes 6 months to 1 year on average, and anywhere from 2 months to 4 years",
+    "time_basis": "official",
+    "who": "Candidate; NYPD Candidate Assessment Division",
+    "law": "Civil Service Law § 58(1)(c)-(d)",
+    "src": [
+     11,
+     12,
+     13,
+     1
+    ]
+   },
+   {
+    "type": "fork",
+    "question": "Does the candidate pass every phase?",
+    "lanes": [
+     {
+      "label": "No: disqualified",
+      "nodes": [
+       {
+        "type": "end",
+        "title": "Removed from consideration",
+        "body": "Felony and domestic violence misdemeanor convictions are statutory bars. Before disqualification, state law requires a written statement of reasons and a chance to respond; the NYPD can ask DCAS to remove a candidate who fails the psychological or moral character standards, and DCAS must comply.",
+        "src": [
+         1,
+         5,
+         2
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Yes: cleared",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Appointed and sent to the Police Academy",
+        "body": "The candidate is appointed a probationary police officer and trains at the Police Academy.",
+        "time": "About 6 months",
+        "time_basis": "official",
+        "who": "NYPD",
+        "law": "",
+        "src": [
+         11
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Serve probation",
+    "body": "Every original appointment is probationary. For police officers, entry-level probation is two years of full-duty status, and the officer is drug tested at the end of it. It can be extended by six months for an investigation, a disciplinary matter or poor performance, and it is also lengthened day for day by time off full duty.",
+    "time": "24 months of full duty, plus up to 6-month extension",
+    "time_basis": "official",
+    "who": "Probationary officer; NYPD",
+    "law": "Civil Service Law § 63; Personnel Rules 5.2.1 and 5.2.8",
+    "src": [
+     15,
+     11,
+     6,
+     14,
+     1
+    ]
+   },
+   {
+    "type": "end",
+    "title": "Tenured police officer",
+    "body": "After completing probation the officer can be disciplined or fired only on written charges after a hearing, with the police commissioner deciding the penalty.",
+    "src": [
+     16,
+     15
+    ]
+   }
+  ],
+  "end_to_end": {
+   "text": "Application and testing take about a month and a half. Per the NYPD, the hiring process that follows averages 6 months to 1 year (as short as 2 months, as long as 4 years). Then come about 6 months of academy training within a 24-month probation, so tenure usually comes at least three years after the test.",
+   "src": [
+    1,
+    11,
+    15
+   ]
+  }
+ },
+ "firing": {
+  "summary": "A probationary officer can be dismissed without a hearing unless the firing is in bad faith. A tenured officer can be fired only on written charges brought within 18 months (no limit for crimes), prosecuted by the NYPD or, for civilian complaints of force, abuse, discourtesy or offensive language, by the CCRB, and tried before an NYPD trial commissioner. The police commissioner alone decides the penalty, which can be reviewed only in state court.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "An allegation is investigated",
+    "body": "Complaints of excessive force, abuse of authority, discourtesy or offensive language (known as FADO) go to the independent Civilian Complaint Review Board (CCRB). Corruption and other misconduct are investigated by the NYPD, led by the Internal Affairs Bureau. Criminal cases can run in parallel with district attorneys.",
+    "time": "No statutory deadline for the investigation itself, but see the 18-month charging limit",
+    "time_basis": "official",
+    "who": "CCRB; NYPD Internal Affairs Bureau",
+    "law": "NYC Charter § 440",
+    "src": [
+     20,
+     15
+    ]
+   },
+   {
+    "type": "fork",
+    "question": "Is the officer still on entry-level probation?",
+    "lanes": [
+     {
+      "label": "Yes: probationary officer",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Dismissed without a hearing",
+        "body": "The Police Department can summarily dismiss a probationary officer without a formal hearing, including for conduct that would not get a tenured officer fired. The Risk Management Bureau makes the recommendation to the police commissioner, and DCAS rules let an agency head end an unsatisfactory probationer's employment by written notice.",
+        "time": "Any time during the 2-year probation or its extension",
+        "time_basis": "rule",
+        "who": "Police commissioner; Risk Management Bureau",
+        "law": "Personnel Rules 5.2.7 and 5.2.8; Matter of Swinton v Safir (1999)",
+        "src": [
+         15,
+         14
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Limited court review",
+        "body": "The Court of Appeals has held that a probationary officer can be let go for almost any reason, or none, unless the firing was in bad faith or for an improper reason. The only way to challenge it is a CPLR Article 78 petition filed within four months.",
+        "src": [
+         23,
+         9
+        ]
+       }
+      ]
+     },
+     {
+      "label": "No: tenured officer",
+      "nodes": [
+       {
+        "type": "fork",
+        "question": "Who prosecutes the case?",
+        "lanes": [
+         {
+          "label": "CCRB-substantiated FADO case",
+          "nodes": [
+           {
+            "type": "step",
+            "title": "CCRB's Administrative Prosecution Unit prosecutes",
+            "body": "The CCRB drafts charges, which the Department Advocate serves on its behalf, and its Administrative Prosecution Unit tries the case. The police commissioner can keep a case away from the CCRB only where there is a related criminal probe or, for an officer with a clean record, where prosecution would not serve the interests of justice. The CCRB can object within five business days and the commissioner can override within five more.",
+            "time": "5 business days to object; 5 to override",
+            "time_basis": "rule",
+            "who": "CCRB; police commissioner",
+            "law": "38-A RCNY § 1-42",
+            "src": [
+             21
+            ]
+           }
+          ]
+         },
+         {
+          "label": "All other misconduct",
+          "nodes": [
+           {
+            "type": "step",
+            "title": "Department Advocate's Office prosecutes",
+            "body": "The NYPD Department Advocate's Office reviews substantiated allegations, files charges and specifications and prosecutes the case.",
+            "time": "",
+            "time_basis": "official",
+            "who": "Department Advocate's Office",
+            "law": "Admin Code § 14-115(b)",
+            "src": [
+             15,
+             16
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Charges served within 18 months",
+        "body": "Written charges must be brought within 18 months of the misconduct. That limit does not apply if the conduct would be a crime.",
+        "time": "18 months from the incident",
+        "time_basis": "statutory",
+        "who": "Prosecutor (Department Advocate's Office or CCRB)",
+        "law": "Civil Service Law § 75(4); Admin Code § 14-115(b)",
+        "src": [
+         7,
+         15
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Possible suspension without pay",
+        "body": "While charges are pending the commissioner can suspend the officer without pay for up to 30 days. An officer who is not found guilty gets back pay.",
+        "time": "Up to 30 days unpaid",
+        "time_basis": "statutory",
+        "who": "Police commissioner",
+        "law": "Civil Service Law § 75(3-a); Admin Code § 14-123",
+        "src": [
+         7,
+         17
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Settle or go to a department trial",
+        "body": "The officer can settle or take the case to a public trial before the Deputy Commissioner of Trials or an Assistant Deputy Commissioner of Trials. The prosecutor must prove the charges by a preponderance of the evidence, and the trial judge then sends findings and a recommended penalty to the commissioner.",
+        "time": "In 2024 the average case was on the trials docket 92 days, and reports followed trials by 29 days on average",
+        "time_basis": "official",
+        "who": "Trial commissioner; officer and counsel; prosecutor",
+        "law": "Civil Service Law § 75(1)-(2); Admin Code § 14-115(b)",
+        "src": [
+         15,
+         24,
+         25
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Police commissioner decides the penalty",
+        "body": "The commissioner has final authority over discipline. Guilty findings can end in termination; forced separation (resignation or retirement, including vested-interest retirement, in lieu of termination); or dismissal probation, where the firing is deferred for a year and any new misconduct in that year can mean summary dismissal. The penalty matrix is advisory, and deviations must be explained in writing and reported each year. Under a 2006 Court of Appeals ruling, discipline cannot be bargained into arbitration.",
+        "time": "",
+        "time_basis": "statutory",
+        "who": "Police commissioner",
+        "law": "NYC Charter § 434; Admin Code §§ 14-115, 14-186; PBA v PERB (2006)",
+        "src": [
+         19,
+         16,
+         15,
+         18,
+         22
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Court review under Article 78",
+        "body": "A fired officer can challenge the commissioner's final decision in state court under CPLR Article 78 within four months after it becomes final. A felony conviction, or conviction of a crime that violates the oath of office, vacates the job by operation of law, without a separate disciplinary case.",
+        "src": [
+         9,
+         8,
+         10,
+         15
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "stats": [
+  {
+   "text": "The NYPD forcibly separated 56 members of the service in 2024, down from 78 in 2023. The count includes post-trial terminations, felony-conviction dismissals, probationary dismissals, dismissal-probation dismissals and negotiated forced separations, for uniformed and civilian members alike.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "text": "From 2022 to 2024, cases the Department Advocate's Office prosecuted closed in 420 days on average; those prosecuted by the CCRB's Administrative Prosecution Unit took 618.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "text": "In 2024, 231 new matters were filed with the Deputy Commissioner of Trials and 234 closed. Cases the trials office submitted to the commissioner that year ended in 93 trial dispositions and 141 settlements, with another 15 officers resigning while their cases were active.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "text": "In the fourth quarter of 2025 the CCRB's Administrative Prosecution Unit recorded 11 trial verdicts, 98 pleas and 2 cases retained by the police commissioner.",
+   "src": [
+    25
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Notice of Examination: Police Officer, Exam Nos. 7311-7322",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277312000.pdf",
+   "quote": "If you pass the multiple-choice test, your name will be placed on an eligible list in final score order. ... This eligible list determines the order of candidates considered for appointment, usually active for four years.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 2,
+   "title": "N.Y. Civil Service Law § 58, Requirements for appointment of certain police officers",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_58",
+   "quote": "they are not less than twenty years of age as of the date of appointment nor more than forty-three years of age as of the date when the applicant takes the written examination",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 3,
+   "title": "N.Y. Civil Service Law § 56, Establishment and duration of eligible lists",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_56",
+   "quote": "The duration of an eligible list shall be fixed at not less than one nor more than four years",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 4,
+   "title": "N.Y. Civil Service Law § 61, Appointment and promotion",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_61",
+   "quote": "shall be made by the selection of one of the three persons certified by the appropriate civil service commission as standing highest on such eligible list who are willing to accept such appointment",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 5,
+   "title": "N.Y. Civil Service Law § 50, Examinations generally",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_50",
+   "quote": "written statement of the reasons therefor and afforded an opportunity to make an explanation and to submit facts in opposition to such disqualification.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 6,
+   "title": "N.Y. Civil Service Law § 63, Probationary term",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_63",
+   "quote": "Every original appointment to a position in the competitive class ... shall be for a probationary term",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 7,
+   "title": "N.Y. Civil Service Law § 75, Removal and other disciplinary action",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "a police officer employed by the police department of the city of New York may be suspended without pay for a period not exceeding thirty days.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 8,
+   "title": "N.Y. Civil Service Law § 76, Appeals from determinations in disciplinary proceedings",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_76",
+   "quote": "or by an application to the court in accordance with the provisions of article seventy-eight of the civil practice law and rules.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 9,
+   "title": "N.Y. Civil Practice Law and Rules § 217",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._civil_practice_law_and_rules_section_217",
+   "quote": "a proceeding against a body or officer must be commenced within four months after the determination to be reviewed becomes final and binding upon the petitioner",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 10,
+   "title": "N.Y. Public Officers Law § 30, Creation of vacancies",
+   "publisher": "New York State Legislature (via NewYork.Public.Law mirror)",
+   "url": "https://newyork.public.law/laws/n.y._public_officers_law_section_30",
+   "quote": "His or her conviction of a felony, conviction of a crime involving a violation of his or her oath of office",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 11,
+   "title": "Police Officer Hiring FAQs",
+   "publisher": "New York City Police Department",
+   "url": "https://www.nyc.gov/site/nypd/careers/police-officers/OLD-faqs-hiring-pos.page",
+   "quote": "The average length of time it takes a candidate to be hired is 6 months to 1 year. However, the process can take as little as 2 months or last as long as 4 years.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 12,
+   "title": "Police Officer Hiring",
+   "publisher": "New York City Police Department",
+   "url": "https://www.nyc.gov/site/nypd/careers/police-officers/OLD-po-hiring.page",
+   "quote": "Candidates must finish this continuous physical test in 4 minutes and 28 seconds to pass",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 13,
+   "title": "Police Officer Candidate Resource Booklet (v3)",
+   "publisher": "New York City Police Department, Candidate Assessment Division",
+   "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/careers/po-candidate-resource-booklet-v3.pdf",
+   "quote": "The process of becoming a police officer consists of five separate phases. They are: the written exam, a medical exam, a background investigation, a psychological examination (written and oral), and a job standards test.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 14,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "At the end of the probationary term, the agency head may terminate the employment of any unsatisfactory probationer by notice to such probationer and to the commissioner of citywide administrative services.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 15,
+   "title": "NYPD Disciplinary System Penalty Guidelines (effective Sept. 9, 2024)",
+   "publisher": "New York City Police Department",
+   "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/nypd_disciplinary_system_penalty_guidelines_effective_09-09-2024.pdf",
+   "quote": "Members on entry-level probation who are the subject of a disciplinary matter can be terminated and the Department may summarily dismiss the member of the service without a formal hearing.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 16,
+   "title": "NYC Administrative Code § 14-115, Discipline of members",
+   "publisher": "NYC (American Legal Publishing text, read via BetaNYC nyc-charter mirror)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/",
+   "quote": "to punish the offending party by reprimand, forfeiting and withholding pay for a specified time, suspension, without pay during such suspension, or by dismissal from the force",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 17,
+   "title": "NYC Administrative Code § 14-123, Suspension of members of force",
+   "publisher": "NYC (American Legal Publishing text, read via BetaNYC nyc-charter mirror)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/",
+   "quote": "The commissioner shall have power to suspend, without pay, pending the trial of charges, any member of the force.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 18,
+   "title": "NYC Administrative Code § 14-186, Internal disciplinary matrix",
+   "publisher": "NYC (American Legal Publishing text, read via BetaNYC nyc-charter mirror)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-124304",
+   "quote": "Nothing in this section shall be construed to limit the discretion of the commissioner to impose discipline, and the commissioner may modify the disciplinary matrix at any time.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 19,
+   "title": "New York City Charter § 434, Commissioner; powers and duties",
+   "publisher": "NYC (American Legal Publishing text, read via BetaNYC nyc-charter mirror)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/",
+   "quote": "The commissioner shall have cognizance and control of the government, administration, disposition and discipline of the department, and of the police force of the department.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 20,
+   "title": "New York City Charter § 440, Public complaints against members of the police department",
+   "publisher": "NYC (American Legal Publishing text, read via BetaNYC nyc-charter mirror)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/",
+   "quote": "complaints ... that allege misconduct involving excessive use of force, abuse of authority including bias-based policing and racial profiling, discourtesy, or use of offensive language",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 21,
+   "title": "Rules of the City of New York, Title 38-A (Civilian Complaint Review Board)",
+   "publisher": "NYC Civilian Complaint Review Board",
+   "url": "https://www.nyc.gov/assets/ccrb/downloads/pdf/Rules_Title%2038-A_%20Civilian%20Complaint%20Review%20Board.pdf",
+   "quote": "The Civilian Complaint Review Board may reject such request to refrain from Prosecution within five business days of receipt of such request.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 22,
+   "title": "Matter of Patrolmen's Benevolent Assn. of City of N.Y. v New York State Pub. Empl. Relations Bd., 6 NY3d 563 (2006)",
+   "publisher": "New York Court of Appeals (via Cornell LII)",
+   "url": "https://www.law.cornell.edu/nyctap/I06_0032.htm",
+   "quote": "Police discipline may not be a subject of collective bargaining under the Taylor Law when the Legislature has expressly committed disciplinary authority over a police department to local officials.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 23,
+   "title": "Matter of Swinton v Safir, 93 NY2d 758 (1999)",
+   "publisher": "New York Court of Appeals (via Cornell LII)",
+   "url": "https://www.law.cornell.edu/nyctap/I99_0133.htm",
+   "quote": "may be dismissed for almost any reason, or for no reason at all ... bad faith or for an improper or impermissible reason",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 24,
+   "title": "Discipline in the NYPD 2024",
+   "publisher": "New York City Police Department",
+   "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/discipline/2024%20Discipline%20Report_V9.pdf",
+   "quote": "The Department forcefully separated 56 MOS in 2024, a decrease of 29.5% compared to the 78 separated in 2023.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 25,
+   "title": "Administrative Prosecution Unit Report, 2025 Q4",
+   "publisher": "NYC Civilian Complaint Review Board",
+   "url": "https://www.nyc.gov/assets/ccrb/downloads/pdf/prosecution_pdf/apu_quarterly_reports/APUReport2025Q4.pdf",
+   "quote": "The APU prosecutes cases before the NYPD Deputy Commissioner of Trials (DCT) or an Assistant Deputy Commissioner of Trials (ADCT).",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  }
+ ],
+ "caveats": [
+  "The NYPD's own pages disagree with the current DCAS exam notice. The FAQ and the older candidate booklet list 60 college credits and a minimum appointment age of 21; the notice for exams 7311-7322 says 24 credits and 20 years 6 months. The flowchart uses the notice, since it governs the exam.",
+  "The NYPD hiring and FAQ pages carry 'OLD-' in their URLs. They were live on 2026-09-11, but some figures (the 6-month academy, the 6-month-to-1-year hiring average) may predate the current exam series.",
+  "How far military service can lower a candidate's counted age varies by source: up to 7 years (DCAS notice), up to 6 (Civil Service Law § 58) and 4 to 6 (NYPD booklet).",
+  "Quotes from the two Court of Appeals cases (sources 22 and 23) and from the two NYPD web pages (11 and 12) came back through a web-fetch tool that extracts text rather than showing the raw page. Check them against the full opinions before publication. The Swinton quote joins two phrases the court was quoting from earlier precedent.",
+  "The Administrative Code and Charter text came from the BetaNYC nyc-charter mirror of the American Legal Publishing code, not from amlegal.com directly; the source URLs point to the amlegal index pages.",
+  "Nysenate.gov blocked automated fetches, so state statutes were read on the NewYork.Public.Law mirror.",
+  "The penalty guidelines effective Sept. 9, 2024 were the latest version found; no 2025 or 2026 revision turned up in searches.",
+  "Stats on case durations and separations include civilian members of the service where noted; they are NYPD-reported figures."
+ ],
+ "unverified": [
+  "PBA collective bargaining agreement provisions on discipline: the contract was not fetched from the Office of Labor Relations. The flowchart relies on the 2006 Court of Appeals decision for the bar on bargaining over discipline.",
+  "Whether an NYPD officer can appeal to the NYC Civil Service Commission under Civil Service Law § 76 instead of going to court. NYPD officers are disciplined under Admin Code § 14-115 through § 75(3-a), and whether § 76's commission route applies to them was not confirmed, so only Article 78 is shown.",
+  "The CCRB-NYPD memorandum of understanding on the Administrative Prosecution Unit: the rules (38-A RCNY §§ 1-41 to 1-46) were read, but the MOU itself was not.",
+  "Hiring-time statistics from the Mayor's Management Report were not gathered.",
+  "The Public Officers Law provision behind the residency requirement (the exam notice cites 'the New York State Public Officers Law') was not fetched; residency is sourced to the exam notice only.",
+  "An NYPD Patrol Guide or Administrative Guide section on the disciplinary process was not fetched; process steps rely on the penalty guidelines and statutes."
+ ]
+}

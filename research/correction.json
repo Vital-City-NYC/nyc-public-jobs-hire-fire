@@ -1,0 +1,833 @@
+{
+ "role": "Correction officer",
+ "agency": "New York City Department of Correction (DOC)",
+ "union": "Correction Officers' Benevolent Association (COBA)",
+ "title_code_or_exam": "Civil service title Correction Officer; most recent open-competitive exam: Department of Citywide Administrative Services (DCAS) Exam No. 6303 (filing April 1 to May 29, 2026; testing expected to begin Aug. 13, 2026). Title code not confirmed from an official page.",
+ "hiring": {
+  "summary": "A candidate files for a city civil service exam run by the Department of Citywide Administrative Services, takes a computer-based multiple-choice test and is ranked on an eligible list. The Department of Correction's Applicant Investigation Unit then screens candidates through a background investigation, medical, psychological and agility tests and a drug screen before appointment to the Correction Academy. Appointment starts a 24-month probationary period, during which the officer must complete the academy and peace officer training.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "Apply during the exam filing window",
+    "body": "Candidates apply online through DCAS during a set filing period and pay a $68 fee, which can be waived for veterans, unemployed people and people receiving public assistance. Candidates must be at least 17 on the test date.",
+    "time": "Filing window about 2 months (Exam 6303: April 1 to May 29, 2026)",
+    "time_basis": "official",
+    "who": "Candidate; Department of Citywide Administrative Services",
+    "law": "Civil Service Law §50(5) (exam fees); DCAS Notice of Examination No. 6303",
+    "src": [
+     15,
+     16,
+     1
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Take the computer-based test",
+    "body": "The multiple-choice test is given at a computer terminal. A score of 70% passes, and the score sets the candidate's rank.",
+    "time": "Exam 6303 testing expected to begin Aug. 13, 2026, about 2.5 months after filing closed",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "DCAS Notice of Examination No. 6303",
+    "src": [
+     15,
+     25
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get ranked on the eligible list",
+    "body": "Passing candidates are placed on an eligible list in score order and get a list number. State law says lists last one to four years; DCAS says this list is usually active for four years.",
+    "time": "List lasts 1 to 4 years (usually 4); list reaches DOC about 4 to 6 months after the test, per an older DOC handout",
+    "time_basis": "statutory",
+    "who": "DCAS; Department of Correction",
+    "law": "Civil Service Law §56",
+    "src": [
+     2,
+     26,
+     31
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get called in list order",
+    "body": "The city certifies names from the top of the list, and the department must choose among the three highest-ranked candidates willing to accept. DOC's Applicant Investigation Unit calls candidates to start screening.",
+    "time": "No fixed clock",
+    "time_basis": "statutory",
+    "who": "DCAS; DOC Applicant Investigation Unit",
+    "law": "Civil Service Law §61(1) (rule of three)",
+    "src": [
+     3,
+     30,
+     31
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Pass the background investigation",
+    "body": "Investigators check documents and character, and candidates pay $75 for fingerprinting. People convicted of a felony or a domestic violence misdemeanor can't be appointed; a candidate disqualified on other grounds must get written reasons and a chance to explain.",
+    "time": "6 weeks to 6 months for screening, per an older DOC handout",
+    "time_basis": "official",
+    "who": "DOC Applicant Investigation Unit; candidate",
+    "law": "Civil Service Law §50(4); DCAS Notice of Examination No. 6303",
+    "src": [
+     27,
+     21,
+     1,
+     31
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Pass the medical, psychological, agility and drug tests",
+    "body": "Candidates take a medical exam, a written and oral psychological exam, a qualifying physical (agility) test and a drug screen. Each is a pass-fail gate before appointment.",
+    "time": "Part of the screening period",
+    "time_basis": "official",
+    "who": "DOC; candidate",
+    "law": "DCAS Notice of Examination No. 6303",
+    "src": [
+     22,
+     23,
+     24,
+     30
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Meet the requirements by appointment day",
+    "body": "By the time of appointment a candidate must be 21, a U.S. citizen and a resident of New York City or Nassau, Westchester, Suffolk, Orange, Rockland or Putnam counties. The candidate also needs 39 college credits, or a high school diploma plus six months of qualifying experience such as military or law enforcement service, and at least a New York State learner's permit.",
+    "time": "On the date of appointment",
+    "time_basis": "official",
+    "who": "Candidate",
+    "law": "DCAS Notice of Examination No. 6303; Public Officers Law residency requirement (as stated in the notice)",
+    "src": [
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get appointed and train at the Correction Academy",
+    "body": "Appointment is the first day of pay, and recruits go to the Correction Academy for training. Officers must be certified in state peace officer training within 12 months of appointment, and must get a New York State driver license before graduating.",
+    "time": "About 4 months of academy, per DOC's 2024 handout (an older version said 5); peace officer certification within 12 months",
+    "time_basis": "official",
+    "who": "DOC Correction Academy; recruit",
+    "law": "Criminal Procedure Law §2.10(25), §2.30(2)",
+    "src": [
+     30,
+     31,
+     12,
+     13,
+     29,
+     20
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Serve 24 months on probation",
+    "body": "Probation lasts 24 months, and a recruit who fails the required training course is terminated. City rules add days on leave or limited duty to the probation period and allow up to six more months with the officer's written consent.",
+    "time": "24 months, plus extensions",
+    "time_basis": "rule",
+    "who": "DOC Commissioner; DCAS Commissioner (for extensions)",
+    "law": "Civil Service Law §63; Personnel Rules and Regulations of the City of New York 5.2.1, 5.2.8",
+    "src": [
+     28,
+     4,
+     32,
+     34
+    ]
+   },
+   {
+    "type": "end",
+    "title": "Permanent correction officer",
+    "body": "An officer who completes probation holds a permanent competitive-class appointment and can be removed only for cause after written charges and a hearing.",
+    "src": [
+     5
+    ]
+   }
+  ],
+  "end_to_end": {
+   "text": "DOC's 2024 Candidate Journey handout says a candidate can go from exam to correction officer in about 6 months, and adds that the process can vary by individual. An earlier, undated version of the handout said 12 to 17 months. Probation then runs another 24 months from appointment.",
+   "src": [
+    30,
+    31,
+    28
+   ]
+  }
+ },
+ "firing": {
+  "summary": "How a correction officer can be fired depends on whether they are still on probation. A probationary officer can be let go by notice without a hearing. A permanent officer is entitled to written charges, a trial before an administrative law judge at the city's Office of Administrative Trials and Hearings (OATH) and a final decision by the correction commissioner, which can be appealed to the city's Civil Service Commission or to state court. Under the Nunez federal consent decree, a court-appointed monitor tracks how long this process takes.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "Misconduct is reported and investigated",
+    "body": "DOC's Investigation Division looks into the allegation. For use-of-force cases, the Nunez consent judgment requires full investigations to finish within 120 days of referral, absent extenuating circumstances.",
+    "time": "Up to 120 days (full use-of-force investigations)",
+    "time_basis": "official",
+    "who": "DOC Investigation Division",
+    "law": "Nunez v. City of New York consent judgment §VII ¶9",
+    "src": [
+     39
+    ]
+   },
+   {
+    "type": "fork",
+    "question": "Is the officer still on probation?",
+    "lanes": [
+     {
+      "label": "Yes, probationary",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Commissioner ends employment by notice",
+        "body": "After at least two months of probationary service, the agency head can terminate a probationer whose conduct or performance is unsatisfactory by notice to the officer and to DCAS. A probationer who fails the required training course can also be terminated. City rules require no hearing.",
+        "time": "Any time after 2 months and before probation ends",
+        "time_basis": "rule",
+        "who": "DOC Commissioner",
+        "law": "Personnel Rules and Regulations of the City of New York 5.2.7",
+        "src": [
+         33,
+         28
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Terminated without a hearing",
+        "body": "Under settled New York case law, a probationer has no right to a hearing and can challenge the firing in court only by showing bad faith or an improper or illegal reason.",
+        "src": [
+         35
+        ]
+       }
+      ]
+     },
+     {
+      "label": "No, permanent",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Trials Division serves written charges",
+        "body": "The officer gets written charges and at least eight days to answer in writing. Charges must be brought within 18 months of the misconduct unless it would be a crime. In use-of-force cases, the Trials Division must make best efforts to serve charges within 30 days of the investigators' recommendation.",
+        "time": "Within 18 months of the incident (unless a crime); at least 8 days to answer",
+        "time_basis": "statutory",
+        "who": "DOC Trials Division; officer",
+        "law": "Civil Service Law §75(2), §75(4); Nunez consent judgment §VIII ¶3(c)",
+        "src": [
+         6,
+         8,
+         40
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Possible suspension pending the hearing",
+        "body": "The officer can be suspended without pay while charges are pending, but for no more than 30 days. If acquitted, the officer gets back pay for the suspension, less any unemployment benefits.",
+        "time": "Up to 30 days without pay",
+        "time_basis": "statutory",
+        "who": "DOC Commissioner",
+        "law": "Civil Service Law §75(3)",
+        "src": [
+         7
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Pre-trial conference at OATH",
+        "body": "The case is filed with OATH and a judge holds a pre-trial conference aimed at settlement. Most formal discipline cases end in a negotiated plea agreement: 73% in the period covered by the monitor's January 2026 report.",
+        "time": "No statutory clock; Nunez expedited cases: conference scheduled within 20 business days of the investigation closing",
+        "time_basis": "official",
+        "who": "DOC Trials Division; officer and union counsel; OATH judge",
+        "law": "NYC Charter §1048; Nunez Action Plan §F ¶2",
+        "src": [
+         36,
+         38,
+         41
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Trial before an OATH judge",
+        "body": "If the case doesn't settle, an OATH administrative law judge holds a trial, where DOC has the burden of proof. The judge then sends a report and recommendation on facts and penalty to the commissioner.",
+        "time": "Use-of-force trials now scheduled within 50 days of the pre-trial conference; reports due within 45 days of the last trial day (OATH practice described by the monitor)",
+        "time_basis": "official",
+        "who": "OATH administrative law judge; DOC Trials Division; officer",
+        "law": "Civil Service Law §75(2); NYC Charter §1048",
+        "src": [
+         5,
+         37,
+         42
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Commissioner decides guilt and penalty",
+        "body": "The correction commissioner makes the final decision. Penalties range from a reprimand, a fine of up to $100 or unpaid suspension of up to two months to demotion or dismissal.",
+        "time": "No general clock found; Nunez expedited cases: within 15 business days of the report",
+        "time_basis": "statutory",
+        "who": "DOC Commissioner",
+        "law": "Civil Service Law §75(3)",
+        "src": [
+         9,
+         37,
+         38
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Officer chooses one appeal route",
+        "body": "The officer can appeal to the New York City Civil Service Commission within 20 days, and that decision is final. Or the officer can sue in state Supreme Court under Civil Practice Law and Rules Article 78, which allows four months.",
+        "time": "20 days (Civil Service Commission, plus 3 if served by registered mail) or 4 months (Article 78)",
+        "time_basis": "statutory",
+        "who": "Officer; New York City Civil Service Commission or state Supreme Court",
+        "law": "Civil Service Law §76(1), §76(3); Civil Practice Law and Rules §217(1)",
+        "src": [
+         10,
+         11,
+         49,
+         50
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Dismissal stands or is changed",
+        "body": "The union contract's grievance and arbitration process excludes disciplinary matters, so discipline goes through this statutory path rather than arbitration. Separately, a felony conviction automatically vacates a public office under state law.",
+        "src": [
+         46,
+         14
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "stats": [
+  {
+   "text": "In the monitoring period covered by the Nunez monitor's Jan. 13, 2026 report (tables run through June 2025), DOC's Trials Division resolved 269 formal discipline cases: 73% by negotiated plea agreement and two by OATH trial.",
+   "src": [
+    41
+   ]
+  },
+  {
+   "text": "272 cases were pending with the Trials Division at the end of that period, compared with more than 1,000 at the end of each monitoring period from 2020 to 2022.",
+   "src": [
+    44
+   ]
+  },
+  {
+   "text": "67% of the cases closed in that period involved incidents that happened more than a year earlier.",
+   "src": [
+    44
+   ]
+  },
+  {
+   "text": "The monitor says that even under ideal conditions a formal discipline case takes at least 180 days to fully resolve.",
+   "src": [
+    43
+   ]
+  },
+  {
+   "text": "OATH held six use-of-force trials in 2024, averaging 117 days from pre-trial conference to report and recommendation, compared with 26 trials averaging 320 days in 2021.",
+   "src": [
+    45
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "New York Civil Service Law §50 (examinations; fees; disqualification)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/50",
+   "quote": "No person shall be disqualified ... unless he has been given a written statement of the reasons therefor and afforded an opportunity to make an explanation",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 2,
+   "title": "New York Civil Service Law §56 (duration of eligible lists)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/56",
+   "quote": "not less than one nor more than four years",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 3,
+   "title": "New York Civil Service Law §61 (appointment from eligible lists)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/61",
+   "quote": "shall be made by the selection of one of the three persons certified by the appropriate civil service commission as standing highest on such eligible list who are willing to accept",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 4,
+   "title": "New York Civil Service Law §63 (probationary term)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/63",
+   "quote": "municipal civil service commissions shall, subject to the provisions of this section, provide by rule for the conditions and extent of probationary service.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 5,
+   "title": "New York Civil Service Law §75(1)-(2) (who is protected; hearing officer; burden of proof)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "The hearing upon such charges shall be held by the officer or body having the power to remove ... The burden of proving incompetency or misconduct shall be upon the person alleging the same.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 6,
+   "title": "New York Civil Service Law §75(2) (written notice; time to answer)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "shall have written notice thereof and of the reasons therefor ... and shall be allowed at least eight days for answering the same in writing",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 7,
+   "title": "New York Civil Service Law §75(3) (suspension pending hearing; restoration if acquitted)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "may be suspended without pay for a period not exceeding thirty days",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 8,
+   "title": "New York Civil Service Law §75(4) (time for commencement of proceedings)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "No removal or disciplinary proceeding shall be commenced more than eighteen months after the occurrence of the alleged incompetency or misconduct",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 9,
+   "title": "New York Civil Service Law §75(3) (penalties)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "a reprimand, a fine not to exceed one hundred dollars ... suspension without pay for a period not exceeding two months, demotion in grade and title, or dismissal from the service",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 10,
+   "title": "New York Civil Service Law §76(1) and (3) (appeals)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/76",
+   "quote": "within twenty days after service of written notice of the determination to be reviewed",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 11,
+   "title": "New York Civil Practice Law and Rules §217 (Article 78 time limit)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVP/217",
+   "quote": "a proceeding against a body or officer must be commenced within four months after the determination to be reviewed becomes final and binding upon the petitioner",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 12,
+   "title": "New York Criminal Procedure Law §2.10(25) (peace officers)",
+   "publisher": "New York State Senate; text confirmed via FindLaw mirror",
+   "url": "https://codes.findlaw.com/ny/criminal-procedure-law/cpl-sect-2-10/",
+   "quote": "correction officers of any state correctional facility or of any penal correctional institution",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 13,
+   "title": "New York Criminal Procedure Law §2.30(2) (peace officer training)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CPL/2.30",
+   "quote": "no person appointed as a peace officer shall exercise the powers of a peace officer, unless he or she has received such certification within twelve months of appointment.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 14,
+   "title": "New York Public Officers Law §30(1)(e) (vacancy on conviction)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/PBO/30",
+   "quote": "His or her conviction of a felony, conviction of a crime involving a violation of his or her oath of office",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 15,
+   "title": "Notice of Examination: Correction Officer, Exam No. 6303 (amended April 29, 2026) - filing and fee",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "From: April 1, 2026 To: May 29, 2026 APPLICATION FEE: $68.00 ... Multiple-choice testing is expected to begin on Thursday, August 13, 2026.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 16,
+   "title": "Notice of Examination No. 6303 - age requirement",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "You must be at least 17 years of age by the date you take the multiple-choice test. Additionally, you must have attained age 21 to be appointed as a Correction Officer.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 17,
+   "title": "Notice of Examination No. 6303 - education and experience",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "At least 39 semester credits at an accredited college or university. Satisfactory completion of Academy training will provide an additional 21 semester credits",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 18,
+   "title": "Notice of Examination No. 6303 - citizenship",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "United States citizenship is required at the time of appointment.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 19,
+   "title": "Notice of Examination No. 6303 - residency",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "The New York State Public Officers Law requires that at the date of appointment, you must be a resident of the City of New York or of Nassau, Westchester, Suffolk, Orange, Rockland or Putnam counties.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 20,
+   "title": "Notice of Examination No. 6303 - driver license",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "You must possess a New York State learner's permit at the time of appointment and must obtain a valid driver license from the State of New York prior to graduating from the Department of Correction Academy.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 21,
+   "title": "Notice of Examination No. 6303 - character and background",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "persons convicted of a felony or domestic violence misdemeanor are not eligible for appointment to the title of Correction Officer.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 22,
+   "title": "Notice of Examination No. 6303 - medical and psychological assessment",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "Medical and psychological guidelines have been established",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 23,
+   "title": "Notice of Examination No. 6303 - physical testing",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "You must pass a qualifying physical test, and may be required to undergo periodic physical testing throughout your career.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 24,
+   "title": "Notice of Examination No. 6303 - drug testing",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "You must pass a drug screening prior to appointment as a part of a pre-employment screening process.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 25,
+   "title": "Notice of Examination No. 6303 - the test",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "will be conducted at a computer terminal, and your score will determine your ranking on the eligible list. To pass, you must achieve a minimum score of 70%.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 26,
+   "title": "Notice of Examination No. 6303 - test results and eligible list",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "your name will be placed on an eligible list in final score order ... usually active for four years.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 27,
+   "title": "Notice of Examination No. 6303 - investigation",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "The position is subject to investigation before appointment. At the time of investigation, you will be required to pay a $75.00 fee for fingerprint screening.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 28,
+   "title": "Notice of Examination No. 6303 - probationary period",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "The probationary period is 24 months. As part of the probationary period, you will be required to successfully complete a prescribed training course.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 29,
+   "title": "Notice of Examination No. 6303 - peace officer status",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20266303000.pdf",
+   "quote": "You must satisfy the requirements established by the State of New York for Peace Officers.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 30,
+   "title": "Candidate Journey (2024 version)",
+   "publisher": "NYC Department of Correction (Join the Boldest)",
+   "url": "https://www.nyc.gov/assets/jointheboldest/downloads/pdf/Candidate_Journey_2024.pdf",
+   "quote": "CANDIDATE TO CORRECTION OFFICER IN 6 MONTHS * ... Candidates who've passed all of these steps go to the Academy for four months",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 31,
+   "title": "Candidate Journey (earlier, undated version)",
+   "publisher": "NYC Department of Correction (Join the Boldest)",
+   "url": "https://www.nyc.gov/assets/jointheboldest/downloads/pdf/Candidate_Journey.pdf",
+   "quote": "CANDIDATE TO CORRECTION OFFICER IN 12-17 months. ... AIU calls candidates to start screening process (6 weeks - 6 months)",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 32,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5.2.1 (probationary period)",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "shall be for a probationary period of one year unless otherwise set forth in the terms and conditions of the certification for appointment",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 33,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5.2.7 (termination of probationers)",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "by notice to such probationer and to the commissioner of citywide administrative services",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 34,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5.2.8 (extension of probation)",
+   "publisher": "NYC Department of Citywide Administrative Services",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "may authorize the extension of the probationary term for one or more additional periods not exceeding in the aggregate six months.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 35,
+   "title": "Matter of Swinton v. Safir, 93 N.Y.2d 758 (1999)",
+   "publisher": "New York Court of Appeals (text via vLex mirror; Justia and CourtListener did not return text)",
+   "url": "https://case-law.vlex.com/vid/matter-of-swinton-v-887525928",
+   "quote": "had no right to challenge the termination by way of a hearing or otherwise, absent a showing that he was dismissed in bad faith or for an improper or impermissible reason.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 36,
+   "title": "New York City Charter §1048 (Office of Administrative Trials and Hearings)",
+   "publisher": "American Legal Publishing (via BetaNYC charter tool)",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/overview",
+   "quote": "There shall be an office of administrative trials and hearings which shall conduct adjudicatory hearings for all agencies of the city",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 37,
+   "title": "OATH Trials Division overview",
+   "publisher": "NYC Office of Administrative Trials and Hearings",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "OATH's Trials Division prepares recommended fact-findings, legal conclusions, and relief for review by the deciding authority, usually the head of the agency that referred the case.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 38,
+   "title": "Nunez v. City of New York, Action Plan, §F ¶2 (Document 454, filed 05/17/22)",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/DOC_Action_Plan.pdf",
+   "quote": "a pre-trial conference must be scheduled within 20 business days of the closure of the investigation ... The Commissioner must impose the final disciplinary action within 15 business days",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 39,
+   "title": "Nunez Independent Monitor, Status Report, Jan. 13, 2026 (Document 947) - quoting Consent Judgment §VII ¶9",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "ID shall complete all Full ID Investigations by no later than 120 days from the Referral Date, absent extenuating circumstances outside the Department's control",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 40,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - quoting Consent Judgment §VIII ¶3(c)",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "shall make best efforts to prepare and serve such charges within 30 days of receiving such recommendation.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 41,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - dispositions of formal discipline",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "269 cases were resolved. As is typical, most formal discipline cases were resolved via Negotiated Plea Agreements (\"NPA\"; 73%), and very few cases (only two) were resolved via OATH trials.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 42,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - OATH trial scheduling",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "OATH began scheduling trials for UOF-related matters within 50 days of the initial pre-trial conference ... all R&Rs must be issued within 45 days of the final trial date.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 43,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - timeliness of formal discipline",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "Even when the formal disciplinary process is operating as intended, which is not yet occurring, the timeline to fully resolve a case is at least 180 days.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 44,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - pending caseload and case age",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "only 272 cases were pending at the end of the current Monitoring Period ... 67% of the cases that were closed during the current Monitoring Period ... occurred over one year ago.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 45,
+   "title": "Nunez Monitor Report, Jan. 13, 2026 - table of OATH trials by year",
+   "publisher": "U.S. District Court S.D.N.Y. filing, hosted by NYC Department of Correction",
+   "url": "https://www.nyc.gov/assets/doc/downloads/pdf/2026-01-13-20th-Monitors-Report.pdf",
+   "quote": "Average Days between Pre-Trial Conference and R&R Issued ... 2021 26 147 43 131 320 ... 2024 6 50 2 62 117",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 46,
+   "title": "Executed contract: Correction Officers, Nov. 1, 2011 to Feb. 28, 2019, Article XXI (grievance and arbitration)",
+   "publisher": "NYC Office of Labor Relations (via City Record)",
+   "url": "https://a856-cityrecord.nyc.gov/Search/GetFile?sectionId=5&requestId=20170127107&requestStatus=Archived&documentId=2344",
+   "quote": "provided that, except as otherwise provided in this Section 1a, the term \"grievance\" shall not include disciplinary matters",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 47,
+   "title": "Executed contract: Correction Officers, 2011-2019, Article on health benefits during suspension",
+   "publisher": "NYC Office of Labor Relations (via City Record)",
+   "url": "https://a856-cityrecord.nyc.gov/Search/GetFile?sectionId=5&requestId=20170127107&requestStatus=Archived&documentId=2344",
+   "quote": "Where an employee is suspended without pay prior to disciplinary trial for disciplinary reasons for more than thirty (30) days, the employee shall receive full health and hospitalization benefit coverage",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 48,
+   "title": "COBA Unit Agreement, 2022-2027",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/coba-2022-2027-unit-agreement.pdf",
+   "quote": "This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the UOCEA MOA.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 49,
+   "title": "Filing a disciplinary appeal with the CSC",
+   "publisher": "NYC Civil Service Commission",
+   "url": "https://www.nyc.gov/site/csc/disciplinary-appeals/filing-a-disciplinary-appeal-with-the-csc.page",
+   "quote": "Appeals to the CSC must be filed within twenty (20) days after the agency head's final disciplinary decision.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 50,
+   "title": "Disciplinary appeals FAQ",
+   "publisher": "NYC Civil Service Commission",
+   "url": "https://www.nyc.gov/site/csc/appeals/disciplinary-appeals/faq.page",
+   "quote": "If you choose to file an appeal with the CSC, the CSC's determination is final and cannot be appealed to the Supreme Court, except in rare circumstances.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 51,
+   "title": "NYC Correction Officer eligibility FAQs",
+   "publisher": "NYC Department of Correction (Join the Boldest)",
+   "url": "https://www.nyc.gov/site/jointheboldest/officer/faqs.page",
+   "quote": "You must be at least 17 ½ years old to take the test, and must be 21 to enter the Correction Academy.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 52,
+   "title": "NYC Correction Officer: How to qualify (undated handout)",
+   "publisher": "NYC Department of Correction",
+   "url": "https://www.nyc.gov/html/doc/downloads/pdf/nyc-co-qualifications.pdf",
+   "quote": "You must possess a motor vehicle driver license valid in the State of New York at the time of appointment.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  }
+ ],
+ "caveats": [
+  "The exam notice for Exam No. 6303 (amended April 29, 2026) is treated as the controlling statement of candidate requirements. Two older DOC documents differ: the Join the Boldest FAQ says the minimum age to test is 17 1/2 (the notice says 17), and an undated DOC handout requires a full driver license and 60 college credits at appointment (the notice requires a learner's permit and 39 credits, with the academy adding 21). Sources 51 and 52 are kept only to document the discrepancy.",
+  "Hiring durations come from two DOC 'Candidate Journey' handouts: the 2024 version says about 6 months with a four-month academy, and an older undated version says 12 to 17 months with a five-month academy. Both say timing varies by individual. No statute sets these clocks.",
+  "The 24-month probation comes from the exam notice. Personnel Rule 5.2.1 sets a one-year default 'unless otherwise set forth in the terms and conditions of the certification.' I did not find the specific DCAS determination that sets 24 months for this title.",
+  "The Nunez Action Plan's expedited timelines (investigation within 30 business days, referral and pre-trial conference within 20, OATH adjudication within 35, commissioner's decision within 15) apply only to cases identified for expedited handling: conduct that would merit termination and egregious conduct risking serious harm. They are not general deadlines. The 120-day investigation and 30-day charge-service standards come from the consent judgment's use-of-force provisions and apply to use-of-force cases.",
+  "The 50-day trial scheduling and 45-day report deadlines are OATH practices for use-of-force cases as described by the Nunez monitor, not published rules I verified. The monitor says the 50-day standard took effect after COBA's Article 78 challenge was dismissed.",
+  "The union contract language comes from the 2011-2019 executed contract, the most recent full contract text I found. The 2022-2027 COBA unit agreement on the Office of Labor Relations site is a three-page PDF; only its last page has extractable text, the rest appears to be scanned images, and no OCR tool was available. I can't confirm whether the 2022-2027 agreement changed Article XXI, but its readable page says it resolves unit bargaining matters under the uniformed coalition memorandum of agreement.",
+  "Article XXI of the 2011-2019 contract excludes 'disciplinary matters' from the grievance definition in its subsection on agency rules, 'except as otherwise provided in this Section 1a.' I found no provision offering arbitration of Civil Service Law §75 discipline as an alternative.",
+  "The 2011-2019 contract provides health coverage when a suspension without pay before trial runs past 30 days, which suggests longer suspensions occur in practice even though Civil Service Law §75(3) caps unpaid suspension at 30 days. I did not verify the legal basis for suspensions longer than 30 days (for example, delays requested by the employee).",
+  "Criminal Procedure Law §2.10(25) covers correction officers 'of any penal correctional institution' and does not name the city Department of Correction explicitly. The exam notice separately requires officers to meet state peace-officer requirements.",
+  "The Swinton v. Safir quote is from a vLex copy of the Court of Appeals decision because Justia and CourtListener did not return text. It is cited only for the settled rule that probationers can be dismissed without a hearing absent bad faith.",
+  "The stats come from the Nunez monitor's report filed Jan. 13, 2026, whose discipline tables cover through June 2025. They are the monitor's figures and I did not independently check them."
+ ],
+ "unverified": [
+  "Title code for Correction Officer: not confirmed from an official page.",
+  "Verbatim text of the OATH Rules of Practice (48 RCNY Chapter 1) on pre-trial conferences and the report and recommendation: I found only OATH annotation pages (1-31, 1-50) and the Trials Division overview, not the rule text.",
+  "DOC's own directive on employee discipline and official descriptions of its Trials and Litigation Division and Investigation Division: the DOC units and divisions page did not describe them. Their roles are sourced from the Nunez filings.",
+  "Role of the city Department of Investigation in correction officer discipline: not researched.",
+  "Deadline for the commissioner's final decision outside Nunez expedited cases: no statute or rule found.",
+  "The specific DCAS authority setting the 24-month probation, and whether DOC can extend it beyond Rule 5.2.8's six-month limit.",
+  "Mayor's Management Report hiring figures and academy class sizes: not collected.",
+  "Whether the 2022-2027 COBA unit agreement changed any discipline-related terms: scanned PDF, not readable here.",
+  "Correction Law and 40 RCNY (Board of Correction) provisions: not checked for hiring or firing gates.",
+  "Whether a Civil Service Commission decision is ever reviewable in court: the commission's FAQ says only 'except in rare circumstances,' and §76(3) says its decision is final and not subject to court review. I did not research the exception."
+ ]
+}

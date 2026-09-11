@@ -1,0 +1,850 @@
+{
+ "role": "Sanitation worker",
+ "agency": "New York City Department of Sanitation (DSNY)",
+ "union": "Uniformed Sanitationmen's Association, Local 831, International Brotherhood of Teamsters",
+ "title_code_or_exam": "Title code 70112; most recent open-competitive exam: No. 2060 (filing June 8-30, 2022; list established Feb. 28, 2024, expires Feb. 28, 2028)",
+ "hiring": {
+  "summary": "Sanitation Workers are hired off a ranked civil service list. Candidates pass a computer test and wait to be called in list order, which happens only when DSNY is authorized to hire. Once called they must pass a physical test, background, medical and drug checks, hold a commercial driver license and be 21, then serve an 18-month probation.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "Apply when the city opens the exam",
+    "body": "The Department of Citywide Administrative Services (DCAS) posts a notice of examination and takes online applications. For Exam 2060 the fee was $61 and applicants had to be at least 17½ by the end of the filing period.",
+    "time": "Filing window of about three weeks (June 8-30, 2022)",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "Civil Service Law § 54 (age, as cited in the notice)",
+    "src": [
+     4,
+     5,
+     1
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Take the multiple-choice test",
+    "body": "The test is given at a computer and a score of at least 70% passes. Ten points are added for candidates who qualify for New York City residency credit.",
+    "time": "Testing began Sept. 7, 2022",
+    "time_basis": "official",
+    "who": "Candidate; DCAS",
+    "law": "Notice of Examination No. 2060",
+    "src": [
+     4,
+     6,
+     7
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get ranked on the eligible list",
+    "body": "Passing candidates are placed on the list in final score order and given a list number. The Exam 2060 list holds 31,309 names; it was published July 12, 2023, established Feb. 28, 2024 and runs to Feb. 28, 2028.",
+    "time": "About 20 months from the close of filing to list establishment for Exam 2060; lists stay active one to four years",
+    "time_basis": "official",
+    "who": "DCAS",
+    "law": "Notice of Examination No. 2060; NYC Open Data Civil Service List",
+    "src": [
+     9,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Wait to be called for the physical test",
+    "body": "Candidates are called in list order, and only when the Department of Sanitation (DSNY) is authorized to hire. The notice warns that not every passing candidate may be called; those called pay a $20 fee.",
+    "time": "Varies; DSNY publishes no average wait",
+    "time_basis": "official",
+    "who": "DCAS; DSNY",
+    "law": "Notice of Examination No. 2060",
+    "src": [
+     2,
+     3,
+     8
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Pass document review and background investigation",
+    "body": "DSNY's Division of Human Resources interviews candidates, checks proof of age, residency and military service and runs a background investigation. By law the city picks from among the three highest-ranked candidates willing to accept.",
+    "time": "Before appointment",
+    "time_basis": "official",
+    "who": "DSNY Division of Human Resources",
+    "law": "Civil Service Law § 61(1)",
+    "src": [
+     15,
+     20,
+     3
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Hold a commercial driver license and be 21",
+    "body": "By appointment a candidate needs a New York State commercial driver license, Class A or B, with the \"N\" tank endorsement and no \"K\" intrastate-only restriction. DSNY offers a one-week course for $1,200, repaid at $30 a paycheck.",
+    "time": "By the date of appointment",
+    "time_basis": "official",
+    "who": "Candidate; New York State Department of Motor Vehicles; DSNY",
+    "law": "Notice of Examination No. 2060",
+    "src": [
+     10,
+     11,
+     5,
+     1
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Pass the medical exam and drug tests",
+    "body": "DSNY's Medical Division checks that the candidate can perform the job's essential functions. Candidates must pass a drug and alcohol screen plus a federal Department of Transportation drug test, and consent to a federal Clearinghouse query.",
+    "time": "Department of Transportation drug test within 30 days before appointment",
+    "time_basis": "official",
+    "who": "DSNY Medical Division",
+    "law": "Federal commercial driver rules, as cited in the notice",
+    "src": [
+     13,
+     12
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Get appointed; meet the residency rule",
+    "body": "The candidate is given a date to start training. For the first two years a sanitation worker must live in New York City or in Nassau or Westchester County.",
+    "time": "Residency rule applies for the first two years",
+    "time_basis": "official",
+    "who": "DSNY",
+    "law": "New York State Public Officers Law, as cited in the notice (section not verified)",
+    "src": [
+     3,
+     14
+    ]
+   },
+   {
+    "type": "step",
+    "title": "Serve an 18-month probation",
+    "body": "Probationers must complete a prescribed training course. With the worker's written consent the probation can be extended by up to six months, and it is extended by days spent off the job.",
+    "time": "18 months, extendable",
+    "time_basis": "official",
+    "who": "DSNY; DCAS commissioner (for extensions)",
+    "law": "Civil Service Law § 63; Personnel Rules 5.2.1 and 5.2.8",
+    "src": [
+     16,
+     21,
+     25
+    ]
+   },
+   {
+    "type": "end",
+    "title": "Permanent sanitation worker",
+    "body": "After probation the worker holds a permanent competitive-class appointment and can be disciplined only after a hearing under Civil Service Law § 75.",
+    "src": [
+     27,
+     16
+    ]
+   }
+  ],
+  "end_to_end": {
+   "text": "For Exam 2060, filing closed June 30, 2022 and the list was established Feb. 28, 2024, about 20 months later. Calls for the physical test then depend on hiring authorization, and DSNY publishes no average wait. Appointment is followed by an 18-month probation, so a candidate who filed in June 2022 could not be a permanent worker before roughly late 2025 at the earliest.",
+   "src": [
+    4,
+    18,
+    2,
+    16
+   ]
+  }
+ },
+ "firing": {
+  "summary": "A probationer can be let go by notice, without a hearing. A permanent worker is entitled to written charges, a trial at OATH before an administrative law judge and a final decision by the Sanitation Commissioner, followed by an appeal to the Civil Service Commission or to court. The Local 831 contract's grievance arbitration covers disputes over contract terms; no clause substituting arbitration for the Section 75 process was found in the posted agreement.",
+  "nodes": [
+   {
+    "type": "step",
+    "title": "An incident or complaint",
+    "body": "A supervisor or other source reports alleged misconduct. The Administrative Code lets the sanitation commissioner punish uniformed members for offenses including neglect of duty, rule violations, absence without leave and breach of discipline.",
+    "time": "Charges must be brought within 18 months unless the conduct would be a crime",
+    "time_basis": "statutory",
+    "who": "DSNY supervisors; DSNY",
+    "law": "Administrative Code § 16-106(a); Civil Service Law § 75(4)",
+    "src": [
+     36,
+     31
+    ]
+   },
+   {
+    "type": "fork",
+    "question": "Is the worker still on probation?",
+    "lanes": [
+     {
+      "label": "Yes, probationary",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Termination by notice, without a hearing",
+        "body": "The agency head can end a probationer's employment by notice at the end of probation, after at least two months of service or on failure of the required training course. Section 75 hearing rights cover permanent employees.",
+        "time": "Any time after two months of service through the end of probation",
+        "time_basis": "rule",
+        "who": "sanitation commissioner; DCAS commissioner (notified)",
+        "law": "Personnel Rules 5.2.7(a)-(c); Civil Service Law § 75(1)",
+        "src": [
+         22,
+         23,
+         24,
+         27
+        ]
+       },
+       {
+        "type": "end",
+        "title": "Probationer terminated",
+        "body": "The DCAS commissioner may, at his or her discretion, restore the person's name to the eligible list if the list still exists.",
+        "src": [
+         26
+        ]
+       }
+      ]
+     },
+     {
+      "label": "No, permanent",
+      "nodes": [
+       {
+        "type": "step",
+        "title": "Possible suspension pending charges",
+        "body": "Under the union contract, a local officer cannot summarily suspend a worker alone; the borough officer-in-charge must first try to resolve it with the worker and a union representative. By statute, suspension without pay pending charges is capped at 30 days.",
+        "time": "Up to 30 days without pay",
+        "time_basis": "statutory",
+        "who": "Borough officer-in-charge; union representative",
+        "law": "Civil Service Law § 75(3); Local 831 agreement, Art. X",
+        "src": [
+         50,
+         29
+        ]
+       },
+       {
+        "type": "step",
+        "title": "DSNY serves written charges",
+        "body": "The worker receives written notice of the charges and has at least eight days to answer in writing. DSNY files the case at the Office of Administrative Trials and Hearings (OATH), and the department bears the burden of proof.",
+        "time": "At least 8 days to answer; 8 days (personal service) or 13 days (mail) at OATH",
+        "time_basis": "statutory",
+        "who": "DSNY; worker; union or counsel",
+        "law": "Civil Service Law § 75(2); 48 RCNY § 1-24; Charter § 1048",
+        "src": [
+         28,
+         42,
+         38,
+         46
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Settlement conference at OATH",
+        "body": "An administrative law judge who will not hear the trial conducts a settlement conference. Citywide, 61% of Trials Division cases settled in fiscal 2025.",
+        "time": "No fixed rule clock found",
+        "time_basis": "rule",
+        "who": "OATH administrative law judge; DSNY; worker",
+        "law": "48 RCNY § 1-31(b)",
+        "src": [
+         39,
+         43,
+         45
+        ]
+       },
+       {
+        "type": "step",
+        "title": "Trial and report and recommendation",
+        "body": "A different judge hears the case and decides it by a preponderance of the evidence. The judge's findings and recommended penalty go to the agency head.",
+        "time": "Fiscal 2025 average: 40.73 business days from record closing to decision (all Trials Division cases)",
+        "time_basis": "official",
+        "who": "OATH administrative law judge",
+        "law": "Civil Service Law § 75(2); Charter § 1048",
+        "src": [
+         39,
+         40,
+         41,
+         44
+        ]
+       },
+       {
+        "type": "step",
+        "title": "sanitation commissioner decides",
+        "body": "The commissioner makes the final decision and may impose a reprimand, a fine up to $100, suspension without pay up to two months, demotion or dismissal. The cause of any fine, suspension or dismissal is recorded in writing.",
+        "time": "No statutory deadline found",
+        "time_basis": "statutory",
+        "who": "sanitation commissioner",
+        "law": "Civil Service Law § 75(3); Administrative Code § 16-106",
+        "src": [
+         41,
+         30,
+         36,
+         37
+        ]
+       },
+       {
+        "type": "fork",
+        "question": "How does the worker appeal?",
+        "lanes": [
+         {
+          "label": "Civil Service Commission",
+          "nodes": [
+           {
+            "type": "end",
+            "title": "Appeal to the New York City Civil Service Commission",
+            "body": "The appeal must be filed within 20 days of the final decision, with extra time if notice came by mail. The commission's decision is final and cannot be reviewed in court.",
+            "src": [
+             32,
+             33,
+             52
+            ]
+           }
+          ]
+         },
+         {
+          "label": "Court",
+          "nodes": [
+           {
+            "type": "end",
+            "title": "Article 78 petition in State Supreme Court",
+            "body": "The worker can instead go to court under Article 78 of the Civil Practice Law and Rules. The petition must be filed within four months after the decision becomes final.",
+            "src": [
+             32,
+             35
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "stats": [
+  {
+   "text": "The active Exam 2060 sanitation worker list has 31,309 names (New York City Open Data, accessed Sept. 11, 2026). The dataset does not show how many have been appointed or passed over.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "text": "The Exam 2060 list was published July 12, 2023 and established Feb. 28, 2024; it expires Feb. 28, 2028. No newer sanitation worker exam appears on DCAS's exam schedule through June 30, 2027.",
+   "src": [
+    18,
+    19,
+    53
+   ]
+  },
+  {
+   "text": "In fiscal 2025 the OATH Trials Division took an average of 40.73 business days to issue a decision after the record closed (35.96 in fiscal 2024), and 79% of decisions came within 45 business days. These figures cover all Trials Division cases, not only Sanitation cases.",
+   "src": [
+    44,
+    45
+   ]
+  },
+  {
+   "text": "The OATH Trials Division case dataset lists 33 Section 75 cases with 'Sanitation' in the case name, opened 2017-2025. Judges recommended termination in 19, suspension in 11 and dismissal of charges in 3; the median was 156 days from opening to report. This subset is a name match and may not be every DSNY case.",
+   "src": [
+    46
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Become a Sanitation Worker",
+   "publisher": "NYC Department of Sanitation (DSNY)",
+   "url": "https://www.nyc.gov/site/dsny/careers/sanitation-workers/become-a-sanitation-worker.page",
+   "quote": "By the date of your appointment you MUST: Be at least 21 years old (required to drive interstate)",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 2,
+   "title": "Hiring Process",
+   "publisher": "NYC Department of Sanitation (DSNY)",
+   "url": "https://www.nyc.gov/site/dsny/careers/sanitation-workers/hiring-process.page",
+   "quote": "Candidates will not be called for the physical test until DSNY is authorized to hire new Sanitation Workers. The period of time between the written exam and getting called for the physical exam can vary greatly.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 3,
+   "title": "Hiring Process",
+   "publisher": "NYC Department of Sanitation (DSNY)",
+   "url": "https://www.nyc.gov/site/dsny/careers/sanitation-workers/hiring-process.page",
+   "quote": "Candidates are called in list-number order off the certified list.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 4,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "WHEN TO APPLY: From: June 8, 2022 To: June 30, 2022 APPLICATION FEE: $61.00",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 5,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "you must be at least 17 ½ years of age by the end of the application period to take this examination. Additionally, you must have attained age 21 to be appointed as a Sanitation Worker.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 6,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "The multiple-choice test will be given at a computer terminal. Your score on this test will be used to determine your place on an eligible list. You must achieve a score of at least 70% to pass the test.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 7,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "Ten points will be added to the final exam score of those candidates who qualify for New York City Residency Credit.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 8,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "If you pass the multiple-choice test, you will be scheduled to take the physical test in score order as vacancies occur. ... Candidates called to the physical test will be required to pay an additional $20.00 fee.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 9,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "The eligible list determines the order by which candidates will be considered for appointment. ... Once a list has been established, it will typically remain active for four years.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 10,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "By the date of appointment, you must have a valid New York State CDL Class A or B License with an \"N\" Tank Vehicles endorsement; no \"K\" (not valid outside N.Y.S.) Intrastate only restriction",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 11,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "The one-week CDL training conducted by the DSNY will cost $1200. ... Payroll deductions will commence after appointment at the rate of $30 per pay period",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 12,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "all potential hires must pass a DOT Drug Test within 30 days before appointment to operate a commercial motor vehicle that requires a CDL license.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 13,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "You will be examined by DSNY's Medical Division to determine whether you can perform the essential functions of the position of Sanitation Worker.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 14,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "any person employed as a Sanitation Worker in the DSNY to be a resident of the City of New York or of Nassau or Westchester Counties during the first two years of employment.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 15,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "candidates will be called for an interview by the DSNY Division of Human Resources for a background investigation and to review all required documents.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 16,
+   "title": "Notice of Examination: Sanitation Worker, Exam No. 2060 (amended July 19, 2023)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20222060000.pdf",
+   "quote": "Probationary Period: The probationary period is eighteen months. ... As part of the probationary period, probationers must successfully complete a prescribed training course.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 17,
+   "title": "Civil Service List (Active), dataset vx8i-nprf, description",
+   "publisher": "NYC Open Data / DCAS",
+   "url": "https://data.cityofnewyork.us/api/views/vx8i-nprf.json",
+   "quote": "An established list is considered active for no less than one year and no more than four years from the date of establishment.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 18,
+   "title": "Civil Service List (Active), query: exam_no=2060 (title code 70112)",
+   "publisher": "NYC Open Data / DCAS",
+   "url": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?$select=exam_no,established_date,anniversary_date,extension_date,count(*)&list_title_code=70112&$group=exam_no,established_date,anniversary_date,extension_date",
+   "quote": "\"exam_no\":\"2060\",\"established_date\":\"2024-02-28T00:00:00.000\",\"anniversary_date\":\"2028-02-28T00:00:00.000\",\"count\":\"31309\"",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 19,
+   "title": "Civil Service List (Active), query: exam_no=2060 published date",
+   "publisher": "NYC Open Data / DCAS",
+   "url": "https://data.cityofnewyork.us/resource/vx8i-nprf.json?$select=count(*),min(published_date),max(published_date),min(list_no),max(list_no)&exam_no=2060",
+   "quote": "\"min_published_date\":\"2023-07-12T00:00:00.000\",\"max_published_date\":\"2023-07-12T00:00:00.000\"",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 20,
+   "title": "New York Civil Service Law § 61",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/61",
+   "quote": "Appointment or promotion from an eligible list ... shall be made by the selection of one of the three persons certified by the appropriate civil service commission as standing highest on such eligible list",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 21,
+   "title": "New York Civil Service Law § 63",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/63",
+   "quote": "Every original appointment to a position in the competitive class...shall be for a probationary term",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 22,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5 (5.2.7(a))",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "At the end of the probationary term, the agency head may terminate the employment of any unsatisfactory probationer by notice to such probationer and to the commissioner of citywide administrative services.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 23,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5 (5.2.7(b))",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the agency head may, at the close of such course of study or training, terminate the employment of any probationer who fails to complete successfully such course of study or training",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 24,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5 (5.2.7(c))",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the agency head may terminate the employment of any probationer whose conduct and performance is not satisfactory after the completion of a minimum period of probationary service ... (1) two months for every appointment",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 25,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5 (5.2.8(a))",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the commissioner of citywide administrative services may authorize the extension of the probationary term for one or more additional periods not exceeding in the aggregate six months",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 26,
+   "title": "Personnel Rules and Regulations of the City of New York, Rule 5 (5.2.9)",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/site/dcas/reports/personnel-rules-regulations-rule-5.page",
+   "quote": "the commissioner of citywide administrative services has the discretion to and may restore the name of such probationer to the eligible list, if it be in existence.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 27,
+   "title": "New York Civil Service Law § 75(1)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "shall not be removed or otherwise subjected to any disciplinary penalty...except for incompetency or misconduct shown after a hearing",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 28,
+   "title": "New York Civil Service Law § 75(2)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "at least eight days for answering the same in writing ... the burden of proving incompetency or misconduct shall be upon the person alleging the same",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 29,
+   "title": "New York Civil Service Law § 75(3)",
+   "publisher": "Public.Law mirror of NY Civil Service Law",
+   "url": "https://newyork.public.law/laws/n.y._civil_service_law_section_75",
+   "quote": "Pending the hearing and determination of charges of incompetency or misconduct, the officer or employee against whom such charges have been preferred may be suspended without pay for a period not exceeding thirty days.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 30,
+   "title": "New York Civil Service Law § 75(3), penalties",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "a reprimand, a fine not to exceed one hundred dollars ... suspension without pay for a period not exceeding two months, demotion in grade and title, or dismissal",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 31,
+   "title": "New York Civil Service Law § 75(4)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/75",
+   "quote": "eighteen months after the occurrence of the alleged incompetency or misconduct ... would...constitute a crime",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 32,
+   "title": "New York Civil Service Law § 76(1)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/76",
+   "quote": "may appeal from such determination either by an application to the state or municipal commission having jurisdiction, or by an application to the court in accordance with the provisions of article seventy-eight",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 33,
+   "title": "New York Civil Service Law § 76(3)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/76",
+   "quote": "The decision of such civil service commission shall be final and conclusive, and not subject to further review in any court.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 34,
+   "title": "New York Civil Service Law § 76(4)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVS/76",
+   "quote": "Such sections may be supplemented, modified or replaced by agreements negotiated between the state and an employee organization pursuant to article fourteen of this chapter.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 35,
+   "title": "New York Civil Practice Law and Rules § 217(1)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/CVP/217",
+   "quote": "a proceeding against a body or officer must be commenced within four months after the determination to be reviewed becomes final",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 36,
+   "title": "NYC Administrative Code § 16-106(a), Removal and suspension of employees",
+   "publisher": "American Legal Publishing text via BetaNYC nyc-charter tool; mirrored at nycadmincode.readthedocs.io",
+   "url": "https://nycadmincode.readthedocs.io/t16/c01/",
+   "quote": "by forfeiting or withholding pay for a specified time, not exceeding thirty days; by suspension, without pay during such suspension, for a period not exceeding thirty days; or by dismissal from the force.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 37,
+   "title": "NYC Administrative Code § 16-106(c)-(d)",
+   "publisher": "American Legal Publishing text via BetaNYC nyc-charter tool; mirrored at nycadmincode.readthedocs.io",
+   "url": "https://nycadmincode.readthedocs.io/t16/c01/",
+   "quote": "A member of the department shall be dismissed only after he or she has been informed of the cause of the proposed dismissal and has been allowed an opportunity of making an explanation.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 38,
+   "title": "New York City Charter § 1048",
+   "publisher": "American Legal Publishing text via BetaNYC nyc-charter tool",
+   "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-5862",
+   "quote": "There shall be an office of administrative trials and hearings which shall conduct adjudicatory hearings for all agencies of the city unless otherwise provided for by executive order, rule, law or pursuant to collective bargaining agreements.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 39,
+   "title": "Trials Division Overview",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH)",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "Most of the cases are initially conferenced by an Administrative Law Judge and cases that are not settled continue to trial before a different Judge.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 40,
+   "title": "Trials Division Overview",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH)",
+   "url": "https://www.nyc.gov/site/oath/trials/overview.page",
+   "quote": "Petitioners must prove their case by a preponderance of the evidence - the same standard usually applied in civil lawsuits.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 41,
+   "title": "Trials Division Case Types and Guides",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH)",
+   "url": "https://www.nyc.gov/site/oath/trials/case-types-guides.page",
+   "quote": "The determinations in disciplinary proceedings are recommendations that are provided to the agency head for final action.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 42,
+   "title": "48 RCNY § 1-24, Answer (OATH Trials Division rules)",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH)",
+   "url": "https://www.nyc.gov/site/oath/trials/chapter-i-subchapter-c.page",
+   "quote": "The respondent may serve and file an answer to the petition within eight days of service of the petition if service was personal, or within thirteen days of service of the petition if service was by mail",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 43,
+   "title": "48 RCNY § 1-31(b), Settlement conferences (OATH Trials Division rules)",
+   "publisher": "NYC Office of Administrative Trials and Hearings (OATH)",
+   "url": "https://www.nyc.gov/site/oath/trials/chapter-i-subchapter-c.page",
+   "quote": "A settlement conference will be conducted by an administrative law judge or other individual designated by the Chief Administrative Law Judge, other than the administrative law judge assigned to hear the case.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 44,
+   "title": "Mayor's Management Report, Fiscal 2025: Office of Administrative Trials and Hearings",
+   "publisher": "NYC Mayor's Office of Operations",
+   "url": "https://www.nyc.gov/assets/operations/downloads/pdf/mmr2025/oath.pdf",
+   "quote": "the average time for the Trials Division to issue a decision increased nearly five days, from 35.96 days in Fiscal 2024 to 40.73 days in Fiscal 2025.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 45,
+   "title": "Mayor's Management Report, Fiscal 2025: OATH performance indicators",
+   "publisher": "NYC Mayor's Office of Operations",
+   "url": "https://www.nyc.gov/assets/operations/downloads/pdf/mmr2025/oath.pdf",
+   "quote": "OATH Trials Division cases with decisions issued within 45 business days (%) 85% 78% 89% 83% 79%",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 46,
+   "title": "OATH Trials Division Case Status, dataset y3hw-z6bm, query: category 'Section 75' and case name containing 'Sanitation'",
+   "publisher": "NYC Open Data / OATH",
+   "url": "https://data.cityofnewyork.us/resource/y3hw-z6bm.json?$select=count(*),min(opened),max(opened)&$where=category='Section 75' AND upper(name) like '%SANITATION%'",
+   "quote": "[{\"count\":\"33\",\"min_opened\":\"2017-01-20T00:00:00.000\",\"max_opened\":\"2025-11-19T00:00:00.000\"}]",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 47,
+   "title": "Uniformed contracts list",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/site/olr/labor/labor-uniformed-contracts.page",
+   "quote": "Sanitation Workers, CBU 49, Executed Contract, 03-02-07 to 09-20-11",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 48,
+   "title": "Sanitation Workers unit agreement, Uniformed Sanitationmen's Association Local 831, 2007-2011, Article X (scanned; text by OCR)",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu49-sanitation-workers-030207-to-092011.pdf",
+   "quote": "The term 'grievance\" shall mean a dispute concerning the application or interpretation of the terms and provisions of this Agreement or of the terms of a personnel order of the Mayor.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 49,
+   "title": "Sanitation Workers unit agreement, Uniformed Sanitationmen's Association Local 831, 2007-2011, Article X (scanned; text by OCR)",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu49-sanitation-workers-030207-to-092011.pdf",
+   "quote": "the Union shall have the sole right to invoke arbitration. ... The decision or award of the arbitration shall be final and binding in accord with applicable law.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 50,
+   "title": "Sanitation Workers unit agreement, Uniformed Sanitationmen's Association Local 831, 2007-2011, Article X (scanned; text by OCR)",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu49-sanitation-workers-030207-to-092011.pdf",
+   "quote": "In the event an officer in a job location seeks to suspend a Sanitation Worker summarily, the officer cannot do so of his own accord. He must refer the recommendation to the Officer-in-charge of the Borough Office.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 51,
+   "title": "2022-2028 Sanitation Workers Memorandum of Economic Agreement (scanned; text by OCR)",
+   "publisher": "NYC Office of Labor Relations",
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/usa-executed-2022-2028-sanitation-worker-moa.pdf",
+   "quote": "The term shall be from December 28, 2022 to February 27, 2028. ... All terms of the Predecessor Separate Unit Agreement shall be continued except as modified pursuant to this agreement.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 52,
+   "title": "Disciplinary: Filing an Appeal",
+   "publisher": "NYC Civil Service Commission",
+   "url": "https://www.nyc.gov/site/csc/disciplinary-appeals/filing-a-disciplinary-appeal-with-the-csc.page",
+   "quote": "Appeals to the CSC must be filed within twenty (20) days after the agency head's final disciplinary decision.",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  },
+  {
+   "id": 53,
+   "title": "DCAS Annual Examination Schedule through June 30, 2027",
+   "publisher": "NYC Department of Citywide Administrative Services (DCAS)",
+   "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/exam-schedules/dcas-annual-exam-schedule-app-period-order.pdf",
+   "quote": "ANNUAL EXAMINATION SCHEDULE THROUGH JUNE 30, 2027",
+   "accessed": "2026-09-11",
+   "fetched_ok": true
+  }
+ ],
+ "caveats": [
+  "Exam 2060 (2022) is the most recent Sanitation Worker exam found; the fee, dates and conditions described are from its amended notice and may change for the next exam.",
+  "The residency rule on DSNY's careers page (New York City, Nassau or Westchester) matches only the first two years in the exam notice; after two years the notice also allows Suffolk, Orange, Rockland and Putnam counties.",
+  "The Local 831 unit agreement on the Office of Labor Relations site is the 2007-2011 contract; the 2022-2028 economic agreement says earlier unit terms continue unless modified. Both are scanned PDFs, so quotes come from OCR text and could contain small transcription errors.",
+  "Administrative Code § 16-106 caps Sanitation Department suspensions and pay forfeitures at 30 days, while Civil Service Law § 75(3) allows suspension without pay of up to two months after a hearing. Civil Service Law § 76(4) keeps local laws in force; how the two interact in DSNY penalties was not verified.",
+  "OATH's 45-business-day figure is a Mayor's Management Report performance measure, not a rule deadline. No rule requiring the Sanitation Commissioner to decide within a set number of days was found.",
+  "Curly quotation marks in source PDFs were changed to straight quotes; ellipses mark omitted text within quotes.",
+  "Civil Service Law § 75 and § 76 quotes were taken through a web-fetch tool that returned excerpts, not the raw statute page; the § 75(3) suspension sentence comes from the public.law mirror.",
+  "The Administrative Code and Charter text came from American Legal Publishing's database through the BetaNYC nyc-charter tool and the readthedocs mirror, because codelibrary.amlegal.com returned HTTP 403 to direct fetches."
+ ],
+ "unverified": [
+  "Physical test content: the exam notice says a description would be released later. No official DCAS description was found, only test-prep sites, so the events and weights are left out.",
+  "Length and content of DSNY's training academy for new hires: the notice requires a prescribed training course but gives no duration, and no official DSNY page stating one was found.",
+  "Role of the DSNY Department Advocate / Office of Employment and Disciplinary Matters in drafting charges and negotiating with the union: this appears only in a search snippet of a cityjobs.nyc.gov posting, and the site refused connections.",
+  "DSNY Code of Conduct and internal disciplinary procedures: not located on nyc.gov.",
+  "Department of Investigation involvement in DSNY discipline: no official document fetched describes it.",
+  "Average time from list establishment to appointment, and the number appointed from the Exam 2060 list: no official figure found. The DCAS list-announcement document on the Government Publications Portal returned 403.",
+  "Whether the one-in-three selection rule under Civil Service Law § 61 is used in practice for Sanitation Worker: DSNY says it calls candidates in list-number order.",
+  "Exact wording of the crime exception in Civil Service Law § 75(4): only a fragment was retrieved.",
+  "Which section of the Public Officers Law sets the Sanitation Worker residency rule: the exam notice cites the law without naming a section.",
+  "Court doctrine that probationers can be dismissed without a hearing absent bad faith: no decision was fetched, so the chart relies on Personnel Rule 5.2.7 and the text of Civil Service Law § 75(1).",
+  "Whether a full successor unit agreement after 2011 changed Article X (grievances): none is posted on the Office of Labor Relations uniformed contracts page."
+ ]
+}

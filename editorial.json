@@ -1,0 +1,480 @@
+{
+ "headline": "Getting a New York City public job takes months of screening. Firing someone past probation takes charges and a trial",
+ "dek": "Flowcharts for five jobs, from the exam or license to permanent status, and from an allegation to a firing that sticks. Every box cites a statute, rule, exam notice, union contract or agency document; tap a number to see the exact language. <b>Fired for cause</b> means removal for misconduct or incompetence, not layoffs.",
+ "compiled": "Compiled September 2026 from official sources",
+ "aiCaution": "<p>Everything substantive, from the concept to which jobs and documents to use to the layout, was handled by the author, a human. The research and coding were done primarily by Anthropic's Claude and Claude Code under close direction.</p><p>The author insisted on quality control. Every verbatim quote was re-fetched from its source and machine-matched against the live text on Sept. 11, 2026. Links into the city's code library were opened and checked in a browser. City Charter quotes were cross-checked against a second copy of the Charter. Where documents conflicted, for example an exam notice and an older agency web page, the chart follows the controlling document and says so.</p><p>Nevertheless, the risks of using AI remain. Laws, rules and contracts change, and this is not legal advice. We would be especially grateful to hear about any red flags you notice.</p>",
+ "compare": {
+  "title": "Five jobs, five different routes in and out",
+  "subtitle": "How each job is filled, how long probation lasts and who decides a firing. Tap a job to open its flowcharts.",
+  "cols": [
+   {
+    "key": "entry",
+    "label": "Way in"
+   },
+   {
+    "key": "probation",
+    "label": "Probation"
+   },
+   {
+    "key": "probfire",
+    "label": "Firing a probationer"
+   },
+   {
+    "key": "hearing",
+    "label": "Firing after probation: who hears it"
+   },
+   {
+    "key": "decides",
+    "label": "Final decision"
+   },
+   {
+    "key": "appeal",
+    "label": "Appeal"
+   }
+  ],
+  "rows": {
+   "police": {
+    "entry": {
+     "text": "Free computer-based civil service exam, ranked list, then NYPD screening",
+     "src": [
+      1,
+      13
+     ]
+    },
+    "probation": {
+     "text": "24 months of full duty, extendable by 6",
+     "src": [
+      15
+     ]
+    },
+    "probfire": {
+     "text": "Summary dismissal, no hearing; court review only for bad faith",
+     "src": [
+      15,
+      23
+     ]
+    },
+    "hearing": {
+     "text": "NYPD trial commissioner; prosecuted by the Department Advocate or the Civilian Complaint Review Board",
+     "src": [
+      15,
+      21
+     ]
+    },
+    "decides": {
+     "text": "Police commissioner",
+     "src": [
+      19,
+      16
+     ]
+    },
+    "appeal": {
+     "text": "State court (Article 78), within 4 months",
+     "src": [
+      9
+     ]
+    }
+   },
+   "correction": {
+    "entry": {
+     "text": "$68 computer-based civil service exam, ranked list, then Department of Correction screening",
+     "src": [
+      15,
+      25
+     ]
+    },
+    "probation": {
+     "text": "24 months",
+     "src": [
+      28
+     ]
+    },
+    "probfire": {
+     "text": "By notice, no hearing; court review only for bad faith",
+     "src": [
+      33,
+      35
+     ]
+    },
+    "hearing": {
+     "text": "Administrative law judge at the Office of Administrative Trials and Hearings",
+     "src": [
+      37,
+      5
+     ]
+    },
+    "decides": {
+     "text": "Correction commissioner",
+     "src": [
+      5,
+      37
+     ]
+    },
+    "appeal": {
+     "text": "Civil Service Commission within 20 days, or state court within 4 months",
+     "src": [
+      10,
+      11,
+      49
+     ]
+    }
+   },
+   "teacher": {
+    "entry": {
+     "text": "State teaching certificate, one TeachNYC application and a principal's offer; no civil service exam",
+     "src": [
+      1,
+      13,
+      14
+     ]
+    },
+    "probation": {
+     "text": "4 years (the union says four years and a day)",
+     "src": [
+      19,
+      20
+     ]
+    },
+    "probfire": {
+     "text": "Discontinued without a hearing; written reasons on request; advisory review only",
+     "src": [
+      23,
+      27,
+      28
+     ]
+    },
+    "hearing": {
+     "text": "One hearing officer under Education Law §3020-a, assigned jointly by the city and the union",
+     "src": [
+      40,
+      34
+     ]
+    },
+    "decides": {
+     "text": "The hearing officer",
+     "src": [
+      44
+     ]
+    },
+    "appeal": {
+     "text": "State Supreme Court within 10 days",
+     "src": [
+      46
+     ]
+    }
+   },
+   "dc37": {
+    "entry": {
+     "text": "$47 civil service exam, ranked list, agency picks from the top three; or a provisional hire with no exam",
+     "src": [
+      21,
+      3,
+      5
+     ]
+    },
+    "probation": {
+     "text": "12 months by default, extendable by 6 with consent",
+     "src": [
+      41,
+      42
+     ]
+    },
+    "probfire": {
+     "text": "By notice after two months, no hearing",
+     "src": [
+      45,
+      46
+     ]
+    },
+    "hearing": {
+     "text": "Office of Administrative Trials and Hearings judge, or an arbitrator if the union takes the contract route",
+     "src": [
+      55,
+      74,
+      62
+     ]
+    },
+    "decides": {
+     "text": "Agency head; on the contract route, the arbitrator",
+     "src": [
+      12,
+      64
+     ]
+    },
+    "appeal": {
+     "text": "Civil Service Commission within 20 days, or state court; arbitration awards are final",
+     "src": [
+      17,
+      18,
+      64
+     ]
+    }
+   },
+   "sanitation": {
+    "entry": {
+     "text": "$61 civil service exam, ranked list, physical test when the department is hiring, commercial driver license by appointment",
+     "src": [
+      4,
+      2,
+      10
+     ]
+    },
+    "probation": {
+     "text": "18 months",
+     "src": [
+      16
+     ]
+    },
+    "probfire": {
+     "text": "By notice after two months, no hearing",
+     "src": [
+      22,
+      23
+     ]
+    },
+    "hearing": {
+     "text": "Administrative law judge at the Office of Administrative Trials and Hearings",
+     "src": [
+      39,
+      28
+     ]
+    },
+    "decides": {
+     "text": "Sanitation commissioner",
+     "src": [
+      41
+     ]
+    },
+    "appeal": {
+     "text": "Civil Service Commission within 20 days, or state court within 4 months",
+     "src": [
+      32,
+      35,
+      52
+     ]
+    }
+   }
+  }
+ },
+ "jobs": {
+  "police": {
+   "short": "Police officer",
+   "long": "New York City police officer",
+   "stats": [
+    {
+     "num": "24 mo.",
+     "lbl": "Probation, extendable by six months",
+     "src": [
+      15
+     ]
+    },
+    {
+     "num": "18 mo.",
+     "lbl": "Deadline to bring charges, unless the act is a crime",
+     "src": [
+      7
+     ]
+    },
+    {
+     "num": "420 days",
+     "lbl": "Average Department Advocate case, 2022-24",
+     "src": [
+      24
+     ]
+    },
+    {
+     "num": "56",
+     "lbl": "Members forced out of the department in 2024",
+     "src": [
+      24
+     ]
+    }
+   ],
+   "hiring": {
+    "title": "A police officer is tested, ranked, screened and trained for about three years before earning tenure",
+    "subtitle": "From the civil service exam to the end of the 24-month probation, per the current exam notice and NYPD hiring materials."
+   },
+   "firing": {
+    "title": "Only the police commissioner can fire a tenured officer, and only after charges and a department trial",
+    "subtitle": "A probationer can be dismissed without a hearing. After probation, the case runs through the Department Advocate or the Civilian Complaint Review Board."
+   },
+   "btn": "Police"
+  },
+  "correction": {
+   "short": "Correction officer",
+   "long": "New York City correction officer",
+   "stats": [
+    {
+     "num": "24 mo.",
+     "lbl": "Probation",
+     "src": [
+      28
+     ]
+    },
+    {
+     "num": "18 mo.",
+     "lbl": "Deadline to bring charges, unless the act is a crime",
+     "src": [
+      8
+     ]
+    },
+    {
+     "num": "73%",
+     "lbl": "Discipline cases resolved by plea deal, latest monitor period",
+     "src": [
+      41
+     ]
+    },
+    {
+     "num": "180 days",
+     "lbl": "Fastest full case even when the process works, per the federal monitor",
+     "src": [
+      43
+     ]
+    }
+   ],
+   "hiring": {
+    "title": "A correction officer passes an exam and five screening gates, then serves a 24-month probation",
+    "subtitle": "From the civil service exam to permanent status, per exam notice No. 6303 and Department of Correction hiring materials."
+   },
+   "firing": {
+    "title": "A permanent correction officer can be fired only after written charges, a trial before a city judge and the commissioner's decision",
+    "subtitle": "Most cases settle before trial. Timelines for use-of-force cases are set by the federal Nunez consent judgment."
+   },
+   "btn": "Correction"
+  },
+  "teacher": {
+   "short": "Teacher",
+   "long": "New York City public school teacher",
+   "stats": [
+    {
+     "num": "4 yrs.",
+     "lbl": "Probation under a new license",
+     "src": [
+      19,
+      20
+     ]
+    },
+    {
+     "num": "10 days",
+     "lbl": "To request a hearing after charges; silence waives it",
+     "src": [
+      37
+     ]
+    },
+    {
+     "num": "30 days",
+     "lbl": "For the hearing officer's decision after the last hearing day",
+     "src": [
+      44
+     ]
+    },
+    {
+     "num": "$68,902",
+     "lbl": "Starting pay with a bachelor's degree; $71,314 from Sept. 14, 2026",
+     "src": [
+      21
+     ]
+    }
+   ],
+   "hiring": {
+    "title": "A teacher needs a state certificate, city clearance and a principal's offer, then serves four years of probation",
+    "subtitle": "There is no civil service exam. The state licenses teachers; the city school system and its principals hire them."
+   },
+   "firing": {
+    "title": "A tenured teacher can be fired only after a hearing, and the hearing officer, not the chancellor, decides",
+    "subtitle": "A probationary teacher can be let go without one. The separate removal track for teachers rated ineffective was repealed in June 2024."
+   },
+   "btn": "Teacher"
+  },
+  "dc37": {
+   "short": "DC 37 clerical",
+   "long": "District Council 37 clerical associate",
+   "stats": [
+    {
+     "num": "163 days",
+     "lbl": "Median from exam to results, all city exams, July-Oct. 2024",
+     "src": [
+      79
+     ]
+    },
+    {
+     "num": "4 yrs.",
+     "lbl": "Longest a hiring list can last",
+     "src": [
+      2
+     ]
+    },
+    {
+     "num": "12 mo.",
+     "lbl": "Default probation, extendable by six months",
+     "src": [
+      41,
+      42
+     ]
+    },
+    {
+     "num": "4",
+     "lbl": "Steps in the union contract's discipline route, A through D",
+     "src": [
+      53,
+      62
+     ]
+    }
+   ],
+   "hiring": {
+    "title": "A clerical associate is ranked on an exam list that can last four years, then serves a year of probation",
+    "subtitle": "Clerical associate is the District Council 37 title used here, per exam notice No. 5977 and city personnel rules. Agencies can also hire provisionally, without an exam."
+   },
+   "firing": {
+    "title": "A permanent clerical associate can be fired through a state hearing or a union arbitration, chosen after a first conference",
+    "subtitle": "Probationers can be let go by notice. Provisional employees have far less protection."
+   },
+   "btn": "DC 37 clerical"
+  },
+  "sanitation": {
+   "short": "Sanitation worker",
+   "long": "New York City sanitation worker",
+   "stats": [
+    {
+     "num": "31,309",
+     "lbl": "Names on the current sanitation worker list",
+     "src": [
+      18
+     ]
+    },
+    {
+     "num": "20 mo.",
+     "lbl": "From the close of exam filing to the list, exam No. 2060",
+     "src": [
+      4,
+      18
+     ]
+    },
+    {
+     "num": "18 mo.",
+     "lbl": "Probation",
+     "src": [
+      16
+     ]
+    },
+    {
+     "num": "156 days",
+     "lbl": "Median from filing to judge's report, 33 trials office cases, 2017-25",
+     "src": [
+      46
+     ]
+    }
+   ],
+   "hiring": {
+    "title": "The last sanitation worker list took about 20 months to arrive, and appointment requires a commercial driver license",
+    "subtitle": "From exam No. 2060 in 2022 through the 18-month probation, per the exam notice and Department of Sanitation hiring pages."
+   },
+   "firing": {
+    "title": "A permanent sanitation worker can be fired only after charges, a trial before a city judge and the commissioner's decision",
+    "subtitle": "Probationers can be let go by notice. The union contract adds a borough-level meeting before any summary suspension."
+   },
+   "btn": "Sanitation"
+  }
+ }
+}
